@@ -1,0 +1,1201 @@
+supplier_id,supplier_name,supplier_country,industry,order_id,order_date,promised_delivery_date,actual_delivery_date,promised_lead_time_days,actual_lead_time_days,lead_time_variance_days,on_time_delivery,order_status,quantity_ordered,quantity_received,late_reason,quality_issue_flag
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00001,2024-04-18,2024-05-07,2024-05-04,19,16.0,-3.0,1,Completed,326,326,,0
+S035,Meadows-Carr,Vanuatu,Food,O00002,2023-09-26,2023-10-19,2023-10-18,23,22.0,-1.0,1,Partial,189,170,,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00003,2024-06-10,2024-07-03,2024-07-04,23,24.0,1.0,0,Completed,623,623,Strike,0
+S001,Jenkins Inc,Mongolia,Clothing,O00004,2023-10-25,2023-11-16,2023-11-22,22,28.0,6.0,0,Partial,401,396,Weather,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00005,2024-11-29,2024-12-23,2024-12-21,24,22.0,-2.0,1,Completed,109,109,,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00006,2023-12-20,2024-01-04,2023-12-28,15,8.0,-7.0,1,Partial,631,620,,0
+S048,Hodge PLC,Norfolk Island,Food,O00007,2024-02-21,2024-03-18,2024-03-11,26,19.0,-7.0,1,Completed,421,421,,0
+S020,Mills Ltd,Rwanda,Automotive,O00008,2024-07-07,2024-07-22,2024-07-20,15,13.0,-2.0,1,Completed,66,66,,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00009,2024-10-27,2024-11-02,2024-11-04,6,8.0,2.0,0,Completed,829,829,Weather,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00010,2023-10-12,2023-10-25,2023-10-14,13,2.0,-11.0,1,Completed,841,841,,1
+S021,Taylor-Collins,Sri Lanka,Clothing,O00011,2024-11-14,2024-12-02,2024-12-08,18,24.0,6.0,0,Partial,490,471,Unknown,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00012,2024-02-22,2024-03-19,2024-03-18,26,25.0,-1.0,1,Completed,75,75,,0
+S033,Romero-Phillips,Mauritania,Automotive,O00013,2024-06-12,2024-07-06,2024-06-22,24,10.0,-14.0,1,Completed,348,348,,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O00014,2025-05-19,2025-06-08,2025-06-11,20,23.0,3.0,0,Completed,956,956,Weather,0
+S009,Martinez PLC,Zambia,Automotive,O00015,2025-08-14,2025-09-02,2025-09-04,19,21.0,2.0,0,Partial,114,112,Strike,1
+S026,Reid LLC,South Africa,Automotive,O00016,2024-11-07,2024-12-06,2024-12-01,29,24.0,-5.0,1,Completed,684,684,,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00017,2025-03-27,2025-04-06,2025-04-03,10,7.0,-3.0,1,Completed,287,287,,0
+S042,Casey PLC,Colombia,Clothing,O00018,2024-08-31,2024-09-13,2024-09-21,13,21.0,8.0,0,Completed,600,600,Strike,0
+S001,Jenkins Inc,Mongolia,Clothing,O00019,2025-01-31,2025-02-24,2025-02-24,24,24.0,0.0,1,Completed,883,883,,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00020,2025-07-08,2025-08-04,2025-08-09,27,32.0,5.0,0,Partial,648,636,Customs,1
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00021,2024-05-25,2024-06-21,2024-06-24,27,30.0,3.0,0,Completed,621,621,Customs,1
+S001,Jenkins Inc,Mongolia,Clothing,O00022,2024-11-19,2024-12-10,2024-11-26,21,7.0,-14.0,1,Partial,284,277,,0
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O00023,2024-06-03,2024-06-11,2024-06-14,8,11.0,3.0,0,Completed,591,591,Customs,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00024,2024-09-11,2024-09-20,2024-09-22,9,11.0,2.0,0,Partial,88,83,Supplier delay,0
+S040,Romero Ltd,Jamaica,Food,O00025,2024-01-27,2024-02-23,2024-02-24,27,28.0,1.0,0,Completed,609,609,Unknown,1
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00026,2024-02-22,2024-02-29,2024-03-08,7,15.0,8.0,0,Completed,892,892,Unknown,0
+S009,Martinez PLC,Zambia,Automotive,O00027,2025-04-07,2025-04-21,2025-04-24,14,17.0,3.0,0,Completed,230,230,Weather,1
+S028,Howe Group,Nauru,Pharmaceuticals,O00028,2024-03-22,2024-03-31,2024-03-29,9,7.0,-2.0,1,Completed,996,996,,0
+S001,Jenkins Inc,Mongolia,Clothing,O00029,2024-01-14,2024-02-10,2024-02-06,27,23.0,-4.0,1,Partial,318,313,,0
+S020,Mills Ltd,Rwanda,Automotive,O00030,2024-01-30,2024-02-26,2024-02-23,27,24.0,-3.0,1,Completed,946,946,,1
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O00031,2024-03-20,2024-04-01,2024-03-29,12,9.0,-3.0,1,Completed,421,421,,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00032,2024-03-04,2024-03-24,2024-03-24,20,20.0,0.0,1,Completed,753,753,,1
+S006,"Drake, Davidson and Moreno",Greece,Food,O00033,2024-03-09,2024-04-05,2024-04-02,27,24.0,-3.0,1,Completed,64,64,,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00034,2024-04-16,2024-05-07,2024-05-05,21,19.0,-2.0,1,Partial,86,81,,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00035,2024-12-21,2024-12-31,2025-01-05,10,15.0,5.0,0,Completed,888,888,Customs,0
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O00036,2023-11-21,2023-12-11,2023-12-10,20,19.0,-1.0,1,Completed,78,78,,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00037,2024-02-08,2024-02-22,2024-02-20,14,12.0,-2.0,1,Completed,221,221,,1
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00038,2025-07-28,2025-08-03,2025-08-02,6,5.0,-1.0,1,Completed,906,906,,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00039,2024-03-19,2024-03-24,2024-04-04,5,16.0,11.0,0,Completed,799,799,Supplier delay,0
+S008,Rowe-Ward,Anguilla,Food,O00040,2024-03-22,2024-04-17,2024-04-13,26,22.0,-4.0,1,Completed,302,302,,0
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O00041,2023-12-11,2024-01-09,2024-01-06,29,26.0,-3.0,1,Completed,168,168,,0
+S013,Rodriguez PLC,Niue,Electronics,O00042,2025-01-24,2025-01-30,2025-02-01,6,8.0,2.0,0,Completed,99,99,Supplier delay,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00043,2024-09-17,2024-09-25,2024-09-30,8,13.0,5.0,0,Completed,522,522,Strike,0
+S040,Romero Ltd,Jamaica,Food,O00044,2025-08-14,2025-09-10,2025-09-08,27,25.0,-2.0,1,Completed,296,296,,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00045,2025-07-25,2025-08-15,2025-08-18,21,24.0,3.0,0,Partial,877,857,Customs,1
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00046,2024-04-15,2024-04-29,2024-04-25,14,10.0,-4.0,1,Completed,437,437,,1
+S033,Romero-Phillips,Mauritania,Automotive,O00047,2025-08-07,2025-08-17,2025-08-21,10,14.0,4.0,0,Completed,887,887,Supplier delay,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00048,2024-06-04,2024-06-20,2024-06-27,16,23.0,7.0,0,Completed,373,373,Strike,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00049,2024-04-28,2024-05-04,2024-05-06,6,8.0,2.0,0,Completed,741,741,Customs,0
+S002,Mason PLC,United States Virgin Islands,Food,O00050,2025-02-14,2025-02-20,2025-02-26,6,12.0,6.0,0,Completed,382,382,Customs,0
+S035,Meadows-Carr,Vanuatu,Food,O00051,2024-05-11,2024-05-19,2024-05-26,8,15.0,7.0,0,Completed,744,744,Strike,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00052,2024-06-01,2024-06-19,2024-06-23,18,22.0,4.0,0,Completed,430,430,Customs,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00053,2024-04-30,2024-05-12,2024-05-21,12,21.0,9.0,0,Partial,718,713,Customs,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00054,2024-09-21,2024-10-09,2024-10-03,18,12.0,-6.0,1,Partial,449,438,,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00055,2024-09-30,2024-10-20,,20,,,0,Cancelled,902,0,Strike,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00056,2025-08-18,2025-08-23,2025-08-19,5,1.0,-4.0,1,Completed,952,952,,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00057,2023-11-25,2023-12-08,2023-12-12,13,17.0,4.0,0,Partial,949,935,Strike,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00058,2025-02-25,2025-03-09,2025-03-08,12,11.0,-1.0,1,Completed,985,985,,0
+S002,Mason PLC,United States Virgin Islands,Food,O00059,2024-03-27,2024-04-11,2024-04-14,15,18.0,3.0,0,Completed,828,828,Weather,0
+S011,Liu-Gomez,Guam,Clothing,O00060,2024-01-05,2024-01-27,2024-01-31,22,26.0,4.0,0,Completed,76,76,Unknown,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00061,2023-12-15,2023-12-24,2023-12-19,9,4.0,-5.0,1,Completed,955,955,,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00062,2025-02-04,2025-02-20,2025-02-22,16,18.0,2.0,0,Completed,917,917,Supplier delay,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00063,2024-05-21,2024-06-13,2024-06-16,23,26.0,3.0,0,Completed,843,843,Unknown,1
+S020,Mills Ltd,Rwanda,Automotive,O00064,2024-09-29,2024-10-24,2024-10-31,25,32.0,7.0,0,Completed,542,542,Customs,0
+S048,Hodge PLC,Norfolk Island,Food,O00065,2025-05-09,2025-05-27,2025-06-04,18,26.0,8.0,0,Completed,946,946,Supplier delay,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00066,2024-04-06,2024-04-22,2024-05-01,16,25.0,9.0,0,Completed,504,504,Weather,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O00067,2025-01-29,2025-02-14,2025-02-13,16,15.0,-1.0,1,Completed,236,236,,0
+S024,Simmons PLC,Isle of Man,Automotive,O00068,2023-12-07,2024-01-02,2024-01-08,26,32.0,6.0,0,Completed,154,154,Weather,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00069,2025-01-01,2025-01-29,2025-01-29,28,28.0,0.0,1,Completed,111,111,,0
+S042,Casey PLC,Colombia,Clothing,O00070,2024-06-17,2024-07-08,2024-07-15,21,28.0,7.0,0,Completed,836,836,Weather,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O00071,2023-12-04,2023-12-22,2023-12-14,18,10.0,-8.0,1,Completed,444,444,,0
+S025,Francis Group,Tokelau,Automotive,O00072,2023-10-03,2023-10-11,2023-10-12,8,9.0,1.0,0,Completed,121,121,Customs,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00073,2023-10-18,2023-11-02,2023-11-08,15,21.0,6.0,0,Partial,69,53,Strike,1
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00074,2023-09-29,2023-10-13,2023-10-21,14,22.0,8.0,0,Partial,306,292,Weather,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00075,2024-05-25,2024-06-07,2024-06-06,13,12.0,-1.0,1,Completed,448,448,,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00076,2024-02-18,2024-02-27,2024-03-06,9,17.0,8.0,0,Completed,985,985,Customs,1
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00077,2024-12-11,2024-12-29,2024-12-30,18,19.0,1.0,0,Completed,703,703,Supplier delay,0
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00078,2024-03-05,2024-03-14,2024-03-12,9,7.0,-2.0,1,Completed,969,969,,1
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00079,2024-09-28,2024-10-26,2024-11-02,28,35.0,7.0,0,Partial,540,532,Weather,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00080,2024-04-29,2024-05-24,2024-05-25,25,26.0,1.0,0,Completed,558,558,Customs,1
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00081,2024-12-15,2024-12-20,2024-12-22,5,7.0,2.0,0,Completed,450,450,Customs,1
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00082,2025-04-26,2025-05-16,,20,,,1,Cancelled,529,0,,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00083,2025-07-23,2025-08-17,2025-08-12,25,20.0,-5.0,1,Partial,950,946,,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00084,2025-03-08,2025-03-15,2025-03-16,7,8.0,1.0,0,Completed,494,494,Unknown,1
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00085,2025-02-17,2025-03-07,2025-03-09,18,20.0,2.0,0,Completed,812,812,Weather,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00086,2025-06-04,2025-06-18,2025-06-09,14,5.0,-9.0,1,Partial,938,926,,1
+S043,"Garza, Martin and Thomas",Greece,Food,O00087,2025-07-19,2025-07-28,,9,,,1,Cancelled,678,0,,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00088,2025-07-24,2025-08-21,2025-08-19,28,26.0,-2.0,1,Partial,920,901,,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00089,2024-03-02,2024-03-29,2024-03-30,27,28.0,1.0,0,Partial,936,923,Supplier delay,1
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00090,2024-10-11,2024-10-17,2024-10-19,6,8.0,2.0,0,Completed,482,482,Weather,1
+S001,Jenkins Inc,Mongolia,Clothing,O00091,2023-10-25,2023-11-23,2023-11-30,29,36.0,7.0,0,Completed,396,396,Weather,1
+S033,Romero-Phillips,Mauritania,Automotive,O00092,2024-01-18,2024-01-28,2024-01-24,10,6.0,-4.0,1,Partial,506,505,,0
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00093,2023-10-17,2023-11-03,2023-11-04,17,18.0,1.0,0,Partial,966,957,Weather,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00094,2024-05-01,2024-05-10,2024-05-06,9,5.0,-4.0,1,Completed,812,812,,0
+S024,Simmons PLC,Isle of Man,Automotive,O00095,2023-10-26,2023-11-20,2023-11-15,25,20.0,-5.0,1,Completed,166,166,,1
+S038,Castaneda Group,Kyrgyz Republic,Food,O00096,2024-02-12,2024-02-28,2024-02-29,16,17.0,1.0,0,Completed,858,858,Supplier delay,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00097,2024-06-17,2024-06-30,2024-06-19,13,2.0,-11.0,1,Completed,519,519,,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00098,2025-03-19,2025-04-14,2025-04-23,26,35.0,9.0,0,Completed,700,700,Weather,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00099,2024-10-26,2024-10-31,2024-10-27,5,1.0,-4.0,1,Completed,375,375,,1
+S002,Mason PLC,United States Virgin Islands,Food,O00100,2023-09-08,2023-10-02,2023-09-29,24,21.0,-3.0,1,Completed,819,819,,0
+S040,Romero Ltd,Jamaica,Food,O00101,2023-12-18,2024-01-06,2024-01-06,19,19.0,0.0,1,Completed,129,129,,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00102,2024-03-27,2024-04-18,2024-04-21,22,25.0,3.0,0,Partial,677,673,Customs,0
+S033,Romero-Phillips,Mauritania,Automotive,O00103,2025-01-21,2025-02-16,2025-02-10,26,20.0,-6.0,1,Completed,114,114,,1
+S002,Mason PLC,United States Virgin Islands,Food,O00104,2025-01-18,2025-02-08,2025-02-14,21,27.0,6.0,0,Completed,128,128,Weather,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00105,2024-02-18,2024-03-10,2024-03-16,21,27.0,6.0,0,Completed,826,826,Weather,1
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00106,2025-03-24,2025-04-11,2025-04-08,18,15.0,-3.0,1,Completed,284,284,,0
+S008,Rowe-Ward,Anguilla,Food,O00107,2025-07-26,2025-08-15,2025-08-24,20,29.0,9.0,0,Completed,482,482,Supplier delay,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00108,2023-11-20,2023-11-25,2023-12-06,5,16.0,11.0,0,Partial,477,472,Unknown,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00109,2023-12-09,2024-01-07,2024-01-13,29,35.0,6.0,0,Completed,71,71,Supplier delay,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00110,2024-05-21,2024-06-19,2024-06-20,29,30.0,1.0,0,Partial,601,585,Supplier delay,0
+S020,Mills Ltd,Rwanda,Automotive,O00111,2025-05-20,2025-06-18,2025-06-18,29,29.0,0.0,1,Completed,71,71,,1
+S043,"Garza, Martin and Thomas",Greece,Food,O00112,2024-05-02,2024-05-07,2024-05-07,5,5.0,0.0,1,Completed,942,942,,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00113,2025-02-05,2025-03-05,2025-03-07,28,30.0,2.0,0,Completed,217,217,Supplier delay,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00114,2025-05-03,2025-05-29,2025-06-05,26,33.0,7.0,0,Completed,810,810,Weather,1
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00115,2024-09-13,2024-09-18,2024-09-23,5,10.0,5.0,0,Completed,605,605,Strike,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00116,2023-09-14,2023-10-11,2023-10-08,27,24.0,-3.0,1,Partial,827,825,,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00117,2025-04-07,2025-04-13,2025-04-18,6,11.0,5.0,0,Completed,489,489,Weather,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00118,2025-07-22,2025-08-13,2025-08-03,22,12.0,-10.0,1,Completed,423,423,,0
+S033,Romero-Phillips,Mauritania,Automotive,O00119,2025-02-09,2025-02-17,2025-02-10,8,1.0,-7.0,1,Completed,742,742,,0
+S020,Mills Ltd,Rwanda,Automotive,O00120,2025-07-29,2025-08-05,2025-08-11,7,13.0,6.0,0,Completed,309,309,Customs,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00121,2025-08-11,2025-08-19,2025-08-17,8,6.0,-2.0,1,Partial,523,512,,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00122,2024-11-09,2024-11-18,2024-11-17,9,8.0,-1.0,1,Completed,922,922,,1
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00123,2024-06-14,2024-07-01,2024-06-30,17,16.0,-1.0,1,Completed,893,893,,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00124,2024-04-23,2024-05-10,2024-05-08,17,15.0,-2.0,1,Completed,577,577,,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00125,2024-12-03,2024-12-12,2024-12-18,9,15.0,6.0,0,Completed,1000,1000,Weather,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00126,2023-12-05,2023-12-15,2023-12-16,10,11.0,1.0,0,Completed,883,883,Customs,1
+S024,Simmons PLC,Isle of Man,Automotive,O00127,2024-06-25,2024-07-16,2024-07-17,21,22.0,1.0,0,Completed,506,506,Supplier delay,1
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00128,2023-09-05,2023-09-30,2023-10-13,25,38.0,13.0,0,Completed,990,990,Supplier delay,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00129,2023-10-12,2023-10-19,2023-10-20,7,8.0,1.0,0,Completed,541,541,Supplier delay,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00130,2024-05-22,2024-06-19,2024-06-21,28,30.0,2.0,0,Partial,149,139,Unknown,0
+S042,Casey PLC,Colombia,Clothing,O00131,2025-01-13,2025-02-08,2025-02-10,26,28.0,2.0,0,Completed,516,516,Strike,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00132,2025-04-05,2025-04-16,2025-04-10,11,5.0,-6.0,1,Partial,859,850,,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00133,2024-12-14,2025-01-07,2025-01-01,24,18.0,-6.0,1,Completed,101,101,,0
+S026,Reid LLC,South Africa,Automotive,O00134,2025-02-05,2025-02-16,2025-02-16,11,11.0,0.0,1,Partial,829,821,,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00135,2024-08-17,2024-09-14,2024-09-15,28,29.0,1.0,0,Partial,448,447,Supplier delay,0
+S026,Reid LLC,South Africa,Automotive,O00136,2024-10-26,2024-11-11,2024-11-16,16,21.0,5.0,0,Partial,718,715,Weather,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00137,2024-01-25,2024-02-14,2024-02-18,20,24.0,4.0,0,Partial,217,198,Strike,0
+S035,Meadows-Carr,Vanuatu,Food,O00138,2025-09-01,2025-09-28,2025-10-06,27,35.0,8.0,0,Completed,763,763,Customs,1
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00139,2025-05-03,2025-05-23,2025-05-19,20,16.0,-4.0,1,Completed,219,219,,0
+S044,Francis Ltd,Colombia,Clothing,O00140,2024-07-25,2024-08-19,2024-08-26,25,32.0,7.0,0,Completed,865,865,Unknown,0
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00141,2024-09-10,2024-09-22,2024-09-14,12,4.0,-8.0,1,Completed,463,463,,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00142,2024-03-26,2024-04-23,2024-04-29,28,34.0,6.0,0,Completed,304,304,Supplier delay,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O00143,2024-05-13,2024-05-22,2024-05-21,9,8.0,-1.0,1,Completed,520,520,,1
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00144,2024-04-12,2024-04-20,,8,,,1,Cancelled,728,0,,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00145,2024-09-15,2024-10-01,2024-10-03,16,18.0,2.0,0,Completed,264,264,Customs,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00146,2025-05-07,2025-06-06,2025-06-03,30,27.0,-3.0,1,Completed,633,633,,0
+S033,Romero-Phillips,Mauritania,Automotive,O00147,2025-06-11,2025-06-16,2025-06-16,5,5.0,0.0,1,Partial,967,951,,0
+S025,Francis Group,Tokelau,Automotive,O00148,2024-08-13,2024-09-06,2024-09-04,24,22.0,-2.0,1,Completed,734,734,,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00149,2024-03-22,2024-04-20,2024-04-20,29,29.0,0.0,1,Completed,116,116,,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00150,2025-02-09,2025-02-24,,15,,,1,Cancelled,978,0,,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00151,2024-10-20,2024-11-04,2024-11-06,15,17.0,2.0,0,Completed,785,785,Customs,1
+S050,Wright-Stewart,Azerbaijan,Automotive,O00152,2024-11-12,2024-11-25,2024-11-27,13,15.0,2.0,0,Completed,989,989,Unknown,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00153,2024-09-26,2024-10-25,2024-10-19,29,23.0,-6.0,1,Partial,614,595,,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O00154,2025-02-24,2025-03-07,2025-03-15,11,19.0,8.0,0,Completed,75,75,Strike,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00155,2023-10-01,2023-10-23,2023-10-18,22,17.0,-5.0,1,Completed,75,75,,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00156,2025-08-27,2025-09-13,,17,,,1,Cancelled,499,0,,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00157,2024-09-14,2024-09-24,2024-09-29,10,15.0,5.0,0,Completed,316,316,Strike,1
+S011,Liu-Gomez,Guam,Clothing,O00158,2024-12-11,2025-01-10,2025-01-04,30,24.0,-6.0,1,Partial,140,123,,0
+S040,Romero Ltd,Jamaica,Food,O00159,2024-12-13,2024-12-22,2024-12-17,9,4.0,-5.0,1,Completed,100,100,,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00160,2024-05-02,2024-05-23,2024-05-25,21,23.0,2.0,0,Completed,451,451,Strike,1
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00161,2025-05-24,2025-06-03,2025-06-02,10,9.0,-1.0,1,Partial,235,232,,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00162,2024-04-04,2024-04-25,2024-04-26,21,22.0,1.0,0,Partial,480,462,Customs,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O00163,2024-03-05,2024-03-18,2024-03-23,13,18.0,5.0,0,Partial,755,752,Supplier delay,0
+S020,Mills Ltd,Rwanda,Automotive,O00164,2023-09-12,2023-10-02,2023-09-27,20,15.0,-5.0,1,Completed,443,443,,0
+S025,Francis Group,Tokelau,Automotive,O00165,2024-10-16,2024-11-05,2024-10-28,20,12.0,-8.0,1,Completed,71,71,,1
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00166,2023-12-27,2024-01-03,2023-12-28,7,1.0,-6.0,1,Completed,737,737,,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00167,2024-07-11,2024-07-27,2024-08-01,16,21.0,5.0,0,Completed,598,598,Weather,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00168,2024-04-22,2024-05-17,2024-05-16,25,24.0,-1.0,1,Completed,696,696,,1
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00169,2025-02-20,2025-03-15,2025-03-24,23,32.0,9.0,0,Completed,716,716,Supplier delay,1
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00170,2025-05-30,2025-06-22,2025-06-29,23,30.0,7.0,0,Partial,700,687,Unknown,0
+S020,Mills Ltd,Rwanda,Automotive,O00171,2025-07-24,2025-08-10,2025-08-15,17,22.0,5.0,0,Completed,723,723,Weather,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00172,2024-02-12,2024-03-07,2024-03-13,24,30.0,6.0,0,Completed,996,996,Customs,1
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00173,2024-09-30,2024-10-20,,20,,,1,Cancelled,203,0,,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O00174,2025-03-01,2025-03-18,2025-03-23,17,22.0,5.0,0,Completed,175,175,Weather,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00175,2023-12-16,2023-12-26,2023-12-23,10,7.0,-3.0,1,Partial,743,730,,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00176,2025-08-30,2025-09-13,2025-09-16,14,17.0,3.0,0,Partial,126,121,Unknown,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00177,2024-05-31,2024-06-24,2024-06-24,24,24.0,0.0,1,Completed,542,542,,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00178,2025-03-22,2025-04-04,2025-04-07,13,16.0,3.0,0,Partial,131,117,Strike,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00179,2024-11-06,2024-11-26,2024-11-27,20,21.0,1.0,0,Completed,862,862,Customs,1
+S011,Liu-Gomez,Guam,Clothing,O00180,2025-02-20,2025-03-05,2025-03-06,13,14.0,1.0,0,Completed,814,814,Supplier delay,0
+S008,Rowe-Ward,Anguilla,Food,O00181,2024-05-31,2024-06-06,2024-06-06,6,6.0,0.0,1,Completed,751,751,,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00182,2024-11-18,2024-12-07,2024-12-05,19,17.0,-2.0,1,Partial,342,333,,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00183,2024-06-14,2024-07-12,2024-07-10,28,26.0,-2.0,1,Completed,733,733,,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00184,2023-12-10,2023-12-25,2023-12-19,15,9.0,-6.0,1,Completed,420,420,,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00185,2025-07-04,2025-07-10,2025-07-05,6,1.0,-5.0,1,Completed,356,356,,0
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00186,2025-07-25,2025-08-15,2025-08-07,21,13.0,-8.0,1,Completed,222,222,,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00187,2025-07-31,2025-08-18,2025-08-17,18,17.0,-1.0,1,Completed,460,460,,1
+S039,Newton-Smith,Sierra Leone,Electronics,O00188,2025-05-16,2025-06-10,2025-05-31,25,15.0,-10.0,1,Completed,540,540,,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00189,2024-10-24,2024-11-05,2024-11-08,12,15.0,3.0,0,Completed,270,270,Weather,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00190,2025-05-23,2025-06-04,2025-06-07,12,15.0,3.0,0,Completed,365,365,Strike,1
+S007,"Morris, Day and Miller",Dominica,Automotive,O00191,2023-12-19,2024-01-11,2024-01-08,23,20.0,-3.0,1,Completed,239,239,,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00192,2024-03-09,2024-03-27,2024-03-28,18,19.0,1.0,0,Partial,480,464,Supplier delay,1
+S006,"Drake, Davidson and Moreno",Greece,Food,O00193,2024-11-11,2024-12-06,2024-12-05,25,24.0,-1.0,1,Completed,65,65,,0
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00194,2024-09-29,2024-10-29,2024-10-23,30,24.0,-6.0,1,Completed,947,947,,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O00195,2025-02-20,2025-03-03,2025-03-05,11,13.0,2.0,0,Partial,157,150,Customs,0
+S024,Simmons PLC,Isle of Man,Automotive,O00196,2024-02-18,2024-03-16,2024-03-13,27,24.0,-3.0,1,Completed,227,227,,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00197,2025-07-26,2025-08-25,2025-08-20,30,25.0,-5.0,1,Completed,143,143,,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00198,2025-06-16,2025-06-25,2025-06-21,9,5.0,-4.0,1,Completed,659,659,,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00199,2024-11-14,2024-12-11,2024-12-19,27,35.0,8.0,0,Completed,739,739,Weather,0
+S035,Meadows-Carr,Vanuatu,Food,O00200,2023-12-07,2023-12-26,2023-12-29,19,22.0,3.0,0,Completed,209,209,Strike,1
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00201,2024-10-22,2024-11-03,2024-11-03,12,12.0,0.0,1,Completed,60,60,,1
+S044,Francis Ltd,Colombia,Clothing,O00202,2023-10-20,2023-11-11,2023-11-14,22,25.0,3.0,0,Completed,597,597,Weather,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00203,2024-10-04,2024-10-12,2024-10-10,8,6.0,-2.0,1,Partial,196,190,,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00204,2024-04-13,2024-05-07,2024-05-10,24,27.0,3.0,0,Completed,500,500,Unknown,0
+S048,Hodge PLC,Norfolk Island,Food,O00205,2024-11-06,2024-11-21,2024-11-24,15,18.0,3.0,0,Completed,750,750,Weather,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00206,2025-07-26,2025-08-02,2025-08-02,7,7.0,0.0,1,Completed,260,260,,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00207,2024-08-04,2024-08-21,2024-08-10,17,6.0,-11.0,1,Partial,606,593,,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00208,2023-11-28,2023-12-10,2023-12-19,12,21.0,9.0,0,Completed,268,268,Unknown,0
+S044,Francis Ltd,Colombia,Clothing,O00209,2024-11-08,2024-11-29,2024-11-27,21,19.0,-2.0,1,Completed,533,533,,0
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00210,2025-04-05,2025-04-12,2025-04-06,7,1.0,-6.0,1,Completed,548,548,,1
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00211,2024-04-14,2024-05-13,2024-05-21,29,37.0,8.0,0,Completed,425,425,Supplier delay,0
+S020,Mills Ltd,Rwanda,Automotive,O00212,2024-07-17,2024-08-03,2024-07-29,17,12.0,-5.0,1,Partial,726,706,,0
+S025,Francis Group,Tokelau,Automotive,O00213,2025-05-25,2025-05-31,2025-05-31,6,6.0,0.0,1,Completed,806,806,,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O00214,2024-04-30,2024-05-25,2024-05-26,25,26.0,1.0,0,Completed,763,763,Strike,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00215,2023-10-09,2023-11-02,2023-11-04,24,26.0,2.0,0,Completed,673,673,Strike,0
+S009,Martinez PLC,Zambia,Automotive,O00216,2024-06-11,2024-07-02,2024-06-30,21,19.0,-2.0,1,Completed,793,793,,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00217,2024-03-03,2024-03-09,2024-03-04,6,1.0,-5.0,1,Completed,485,485,,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00218,2025-06-09,2025-06-19,2025-06-22,10,13.0,3.0,0,Completed,676,676,Strike,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00219,2025-05-11,2025-05-24,2025-05-20,13,9.0,-4.0,1,Partial,592,575,,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00220,2024-07-30,2024-08-13,2024-08-18,14,19.0,5.0,0,Completed,575,575,Customs,0
+S024,Simmons PLC,Isle of Man,Automotive,O00221,2025-02-22,2025-03-12,2025-03-12,18,18.0,0.0,1,Completed,897,897,,1
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00222,2023-11-05,2023-11-19,2023-11-21,14,16.0,2.0,0,Completed,262,262,Supplier delay,1
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00223,2025-06-11,2025-07-11,2025-07-06,30,25.0,-5.0,1,Completed,607,607,,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00224,2025-02-24,2025-03-08,2025-03-08,12,12.0,0.0,1,Completed,477,477,,1
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00225,2024-02-11,2024-03-06,2024-03-02,24,20.0,-4.0,1,Completed,841,841,,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00226,2025-02-01,2025-02-10,2025-02-15,9,14.0,5.0,0,Partial,437,428,Unknown,1
+S008,Rowe-Ward,Anguilla,Food,O00227,2023-09-24,2023-10-05,2023-10-06,11,12.0,1.0,0,Partial,612,595,Weather,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00228,2024-11-20,2024-11-27,2024-11-24,7,4.0,-3.0,1,Partial,818,806,,1
+S009,Martinez PLC,Zambia,Automotive,O00229,2025-06-16,2025-07-16,2025-07-09,30,23.0,-7.0,1,Completed,410,410,,0
+S026,Reid LLC,South Africa,Automotive,O00230,2025-08-06,2025-08-15,2025-08-18,9,12.0,3.0,0,Completed,681,681,Supplier delay,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00231,2024-06-08,2024-06-25,2024-06-17,17,9.0,-8.0,1,Completed,656,656,,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O00232,2023-12-26,2024-01-23,2024-01-22,28,27.0,-1.0,1,Completed,864,864,,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00233,2024-10-04,2024-10-18,2024-10-29,14,25.0,11.0,0,Partial,61,58,Customs,0
+S011,Liu-Gomez,Guam,Clothing,O00234,2023-11-30,2023-12-14,2023-12-09,14,9.0,-5.0,1,Completed,628,628,,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00235,2025-02-10,2025-03-10,2025-03-08,28,26.0,-2.0,1,Completed,330,330,,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00236,2024-01-05,2024-01-14,2024-01-13,9,8.0,-1.0,1,Completed,426,426,,0
+S033,Romero-Phillips,Mauritania,Automotive,O00237,2024-09-06,2024-09-12,2024-09-15,6,9.0,3.0,0,Completed,904,904,Customs,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00238,2025-02-05,2025-02-28,2025-02-20,23,15.0,-8.0,1,Completed,233,233,,0
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00239,2023-11-08,2023-11-19,2023-11-14,11,6.0,-5.0,1,Completed,500,500,,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00240,2025-01-17,2025-02-13,2025-02-22,27,36.0,9.0,0,Completed,962,962,Weather,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00241,2025-02-22,2025-03-01,2025-03-03,7,9.0,2.0,0,Completed,376,376,Supplier delay,1
+S050,Wright-Stewart,Azerbaijan,Automotive,O00242,2024-03-28,2024-04-26,2024-04-25,29,28.0,-1.0,1,Partial,362,361,,0
+S026,Reid LLC,South Africa,Automotive,O00243,2025-08-03,2025-08-18,2025-08-20,15,17.0,2.0,0,Completed,527,527,Customs,1
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00244,2025-08-27,2025-09-09,2025-09-11,13,15.0,2.0,0,Completed,164,164,Supplier delay,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00245,2025-04-19,2025-05-10,2025-05-07,21,18.0,-3.0,1,Completed,56,56,,0
+S011,Liu-Gomez,Guam,Clothing,O00246,2024-04-09,2024-05-08,2024-05-01,29,22.0,-7.0,1,Completed,761,761,,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00247,2025-08-23,2025-09-16,2025-09-17,24,25.0,1.0,0,Partial,680,660,Supplier delay,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00248,2024-09-16,2024-10-15,2024-10-24,29,38.0,9.0,0,Partial,87,80,Unknown,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00249,2025-08-26,2025-09-05,2025-09-02,10,7.0,-3.0,1,Partial,696,692,,0
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00250,2023-09-06,2023-09-27,2023-09-25,21,19.0,-2.0,1,Completed,677,677,,0
+S040,Romero Ltd,Jamaica,Food,O00251,2024-11-25,2024-12-24,2024-12-30,29,35.0,6.0,0,Completed,865,865,Customs,0
+S048,Hodge PLC,Norfolk Island,Food,O00252,2024-02-26,2024-03-06,2024-03-07,9,10.0,1.0,0,Completed,327,327,Unknown,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00253,2025-06-29,2025-07-17,2025-07-12,18,13.0,-5.0,1,Completed,782,782,,0
+S001,Jenkins Inc,Mongolia,Clothing,O00254,2024-06-06,2024-06-19,2024-06-20,13,14.0,1.0,0,Completed,531,531,Strike,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O00255,2023-10-22,2023-10-29,2023-10-25,7,3.0,-4.0,1,Completed,438,438,,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O00256,2024-02-23,2024-03-05,,11,,,1,Cancelled,429,0,,1
+S036,"Perez, Watson and Jones",Angola,Electronics,O00257,2024-01-14,2024-01-23,2024-01-22,9,8.0,-1.0,1,Completed,890,890,,0
+S033,Romero-Phillips,Mauritania,Automotive,O00258,2024-03-09,2024-04-07,,29,,,1,Cancelled,150,0,,1
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00259,2024-10-08,2024-11-05,2024-11-08,28,31.0,3.0,0,Completed,330,330,Customs,0
+S008,Rowe-Ward,Anguilla,Food,O00260,2024-11-23,2024-12-14,,21,,,0,Cancelled,371,0,Strike,0
+S042,Casey PLC,Colombia,Clothing,O00261,2025-01-18,2025-01-28,2025-01-25,10,7.0,-3.0,1,Partial,931,923,,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00262,2025-02-16,2025-03-12,2025-03-14,24,26.0,2.0,0,Completed,622,622,Unknown,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00263,2023-09-29,2023-10-04,2023-10-02,5,3.0,-2.0,1,Completed,616,616,,1
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00264,2024-06-30,2024-07-27,2024-07-24,27,24.0,-3.0,1,Completed,613,613,,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00265,2025-04-07,2025-05-03,2025-05-04,26,27.0,1.0,0,Completed,278,278,Customs,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00266,2025-04-13,2025-04-27,2025-04-30,14,17.0,3.0,0,Completed,94,94,Weather,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00267,2024-01-24,2024-02-16,2024-02-24,23,31.0,8.0,0,Partial,829,819,Strike,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00268,2023-09-16,2023-10-15,2023-10-15,29,29.0,0.0,1,Completed,53,53,,0
+S040,Romero Ltd,Jamaica,Food,O00269,2023-09-27,2023-10-13,2023-10-25,16,28.0,12.0,0,Partial,360,359,Weather,0
+S011,Liu-Gomez,Guam,Clothing,O00270,2025-03-29,2025-04-10,2025-04-09,12,11.0,-1.0,1,Completed,865,865,,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00271,2024-12-16,2024-12-24,2024-12-20,8,4.0,-4.0,1,Partial,119,101,,0
+S024,Simmons PLC,Isle of Man,Automotive,O00272,2023-12-14,2023-12-23,2023-12-20,9,6.0,-3.0,1,Partial,354,349,,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00273,2025-04-01,2025-04-27,2025-04-28,26,27.0,1.0,0,Completed,293,293,Weather,0
+S033,Romero-Phillips,Mauritania,Automotive,O00274,2024-10-30,2024-11-08,2024-11-06,9,7.0,-2.0,1,Completed,500,500,,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00275,2024-07-18,2024-07-31,2024-07-30,13,12.0,-1.0,1,Partial,225,205,,0
+S012,Turner Ltd,Venezuela,Automotive,O00276,2023-12-30,2024-01-08,2024-01-13,9,14.0,5.0,0,Completed,244,244,Strike,1
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00277,2023-09-29,2023-10-11,2023-10-09,12,10.0,-2.0,1,Completed,686,686,,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00278,2025-08-05,2025-09-01,2025-08-29,27,24.0,-3.0,1,Completed,805,805,,1
+S026,Reid LLC,South Africa,Automotive,O00279,2025-07-21,2025-08-13,2025-08-10,23,20.0,-3.0,1,Completed,331,331,,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00280,2023-09-12,2023-09-24,2023-09-30,12,18.0,6.0,0,Partial,774,756,Supplier delay,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00281,2024-06-05,2024-06-21,2024-07-04,16,29.0,13.0,0,Completed,304,304,Weather,1
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00282,2025-04-29,2025-05-15,2025-05-14,16,15.0,-1.0,1,Completed,407,407,,1
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00283,2025-04-02,2025-04-09,2025-04-11,7,9.0,2.0,0,Completed,529,529,Strike,1
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00284,2025-01-14,2025-01-25,2025-01-16,11,2.0,-9.0,1,Completed,129,129,,0
+S048,Hodge PLC,Norfolk Island,Food,O00285,2024-04-25,2024-05-12,2024-05-21,17,26.0,9.0,0,Partial,103,101,Unknown,0
+S009,Martinez PLC,Zambia,Automotive,O00286,2025-01-16,2025-02-03,2025-01-23,18,7.0,-11.0,1,Partial,156,147,,1
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00287,2024-11-16,2024-11-22,2024-11-22,6,6.0,0.0,1,Partial,484,475,,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00288,2023-11-05,2023-11-14,2023-11-13,9,8.0,-1.0,1,Completed,461,461,,1
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00289,2023-12-28,2024-01-21,2024-01-20,24,23.0,-1.0,1,Completed,884,884,,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00290,2024-12-13,2024-12-22,2024-12-21,9,8.0,-1.0,1,Completed,204,204,,1
+S035,Meadows-Carr,Vanuatu,Food,O00291,2025-03-04,2025-04-03,2025-03-28,30,24.0,-6.0,1,Completed,527,527,,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00292,2024-11-11,2024-12-08,2024-12-09,27,28.0,1.0,0,Completed,944,944,Unknown,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00293,2024-05-20,2024-06-05,2024-06-01,16,12.0,-4.0,1,Partial,874,859,,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O00294,2025-03-05,2025-04-02,2025-03-30,28,25.0,-3.0,1,Completed,622,622,,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00295,2025-05-24,2025-06-18,2025-06-18,25,25.0,0.0,1,Completed,966,966,,1
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00296,2024-09-20,2024-10-14,2024-10-10,24,20.0,-4.0,1,Partial,193,177,,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O00297,2024-12-31,2025-01-18,2025-01-19,18,19.0,1.0,0,Partial,448,444,Customs,1
+S039,Newton-Smith,Sierra Leone,Electronics,O00298,2025-07-25,2025-08-09,2025-08-06,15,12.0,-3.0,1,Completed,263,263,,0
+S001,Jenkins Inc,Mongolia,Clothing,O00299,2024-10-13,2024-10-28,2024-10-28,15,15.0,0.0,1,Partial,368,363,,0
+S001,Jenkins Inc,Mongolia,Clothing,O00300,2025-02-16,2025-02-23,2025-02-21,7,5.0,-2.0,1,Completed,529,529,,1
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00301,2024-09-01,2024-09-07,2024-09-11,6,10.0,4.0,0,Completed,617,617,Unknown,1
+S040,Romero Ltd,Jamaica,Food,O00302,2025-03-12,2025-04-07,2025-03-29,26,17.0,-9.0,1,Completed,83,83,,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00303,2024-07-22,2024-08-06,2024-08-10,15,19.0,4.0,0,Completed,652,652,Unknown,0
+S035,Meadows-Carr,Vanuatu,Food,O00304,2025-01-30,2025-02-10,2025-02-20,11,21.0,10.0,0,Completed,682,682,Supplier delay,0
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O00305,2025-07-23,2025-08-04,2025-07-30,12,7.0,-5.0,1,Completed,575,575,,1
+S035,Meadows-Carr,Vanuatu,Food,O00306,2024-04-25,2024-05-02,2024-04-27,7,2.0,-5.0,1,Completed,190,190,,0
+S040,Romero Ltd,Jamaica,Food,O00307,2024-10-26,2024-11-12,2024-11-16,17,21.0,4.0,0,Completed,197,197,Weather,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00308,2025-03-04,2025-03-29,2025-03-27,25,23.0,-2.0,1,Completed,693,693,,1
+S012,Turner Ltd,Venezuela,Automotive,O00309,2024-04-22,2024-05-11,2024-05-15,19,23.0,4.0,0,Completed,211,211,Strike,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00310,2024-11-06,2024-11-17,2024-11-18,11,12.0,1.0,0,Completed,901,901,Unknown,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00311,2024-01-21,2024-02-09,2024-02-08,19,18.0,-1.0,1,Completed,533,533,,1
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00312,2024-09-11,2024-09-22,2024-09-21,11,10.0,-1.0,1,Completed,758,758,,1
+S006,"Drake, Davidson and Moreno",Greece,Food,O00313,2024-09-26,2024-10-17,2024-10-22,21,26.0,5.0,0,Completed,728,728,Supplier delay,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00314,2024-05-11,2024-06-08,2024-06-09,28,29.0,1.0,0,Completed,322,322,Customs,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00315,2025-04-06,2025-04-17,2025-04-22,11,16.0,5.0,0,Completed,739,739,Weather,0
+S035,Meadows-Carr,Vanuatu,Food,O00316,2024-10-28,2024-11-07,2024-11-11,10,14.0,4.0,0,Partial,572,570,Supplier delay,1
+S011,Liu-Gomez,Guam,Clothing,O00317,2024-05-12,2024-05-28,2024-05-30,16,18.0,2.0,0,Completed,168,168,Unknown,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00318,2025-06-03,2025-06-24,2025-06-28,21,25.0,4.0,0,Completed,371,371,Weather,1
+S006,"Drake, Davidson and Moreno",Greece,Food,O00319,2023-11-18,2023-12-16,2023-12-12,28,24.0,-4.0,1,Completed,539,539,,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00320,2024-03-13,2024-03-18,2024-03-16,5,3.0,-2.0,1,Completed,689,689,,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00321,2024-09-19,2024-10-17,2024-10-24,28,35.0,7.0,0,Completed,612,612,Supplier delay,1
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00322,2023-11-20,2023-12-09,2023-12-08,19,18.0,-1.0,1,Partial,860,840,,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00323,2024-05-13,2024-05-18,2024-05-14,5,1.0,-4.0,1,Completed,621,621,,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00324,2024-03-02,2024-03-13,2024-03-12,11,10.0,-1.0,1,Completed,260,260,,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00325,2024-08-09,2024-08-19,2024-08-17,10,8.0,-2.0,1,Completed,428,428,,0
+S042,Casey PLC,Colombia,Clothing,O00326,2023-10-20,2023-11-05,2023-11-02,16,13.0,-3.0,1,Completed,182,182,,0
+S020,Mills Ltd,Rwanda,Automotive,O00327,2024-01-25,2024-02-24,2024-02-24,30,30.0,0.0,1,Completed,78,78,,0
+S001,Jenkins Inc,Mongolia,Clothing,O00328,2024-11-30,2024-12-07,2024-12-01,7,1.0,-6.0,1,Completed,260,260,,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00329,2025-04-13,2025-04-23,2025-04-22,10,9.0,-1.0,1,Completed,254,254,,0
+S013,Rodriguez PLC,Niue,Electronics,O00330,2024-02-16,2024-02-25,2024-02-26,9,10.0,1.0,0,Completed,90,90,Customs,1
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00331,2024-10-15,2024-10-22,2024-10-22,7,7.0,0.0,1,Partial,869,851,,0
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00332,2023-11-29,2023-12-13,2023-12-07,14,8.0,-6.0,1,Completed,731,731,,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00333,2024-11-14,2024-12-13,2024-12-11,29,27.0,-2.0,1,Completed,924,924,,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00334,2025-03-29,2025-04-19,2025-04-23,21,25.0,4.0,0,Completed,660,660,Unknown,1
+S021,Taylor-Collins,Sri Lanka,Clothing,O00335,2025-04-15,2025-05-11,2025-05-10,26,25.0,-1.0,1,Completed,172,172,,1
+S001,Jenkins Inc,Mongolia,Clothing,O00336,2024-11-02,2024-11-15,2024-11-10,13,8.0,-5.0,1,Completed,137,137,,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00337,2025-02-15,2025-03-08,2025-03-08,21,21.0,0.0,1,Completed,718,718,,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00338,2024-12-06,2024-12-31,2024-12-30,25,24.0,-1.0,1,Completed,410,410,,0
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00339,2023-10-13,2023-11-04,2023-11-07,22,25.0,3.0,0,Completed,623,623,Supplier delay,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00340,2025-01-22,2025-02-13,2025-02-06,22,15.0,-7.0,1,Completed,914,914,,0
+S024,Simmons PLC,Isle of Man,Automotive,O00341,2024-09-20,2024-10-06,2024-10-04,16,14.0,-2.0,1,Completed,643,643,,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00342,2024-07-06,2024-07-14,2024-07-07,8,1.0,-7.0,1,Partial,345,344,,1
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00343,2025-06-23,2025-07-17,2025-07-17,24,24.0,0.0,1,Partial,498,494,,1
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00344,2024-06-27,2024-07-25,2024-07-29,28,32.0,4.0,0,Completed,311,311,Unknown,0
+S033,Romero-Phillips,Mauritania,Automotive,O00345,2024-02-02,2024-02-12,2024-02-09,10,7.0,-3.0,1,Completed,131,131,,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00346,2025-01-19,2025-02-08,2025-02-02,20,14.0,-6.0,1,Completed,941,941,,0
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00347,2025-01-19,2025-02-09,2025-02-05,21,17.0,-4.0,1,Completed,268,268,,0
+S008,Rowe-Ward,Anguilla,Food,O00348,2023-10-26,2023-11-21,2023-11-24,26,29.0,3.0,0,Completed,675,675,Unknown,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00349,2025-02-10,2025-02-23,2025-02-15,13,5.0,-8.0,1,Completed,953,953,,1
+S026,Reid LLC,South Africa,Automotive,O00350,2025-06-02,2025-06-29,2025-06-29,27,27.0,0.0,1,Completed,675,675,,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O00351,2025-07-15,2025-08-11,2025-08-08,27,24.0,-3.0,1,Completed,280,280,,0
+S044,Francis Ltd,Colombia,Clothing,O00352,2025-02-06,2025-02-14,2025-02-26,8,20.0,12.0,0,Completed,188,188,Customs,1
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00353,2023-11-09,2023-11-26,2023-11-27,17,18.0,1.0,0,Completed,689,689,Unknown,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00354,2024-11-15,2024-12-14,2024-12-15,29,30.0,1.0,0,Completed,916,916,Supplier delay,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00355,2024-05-17,2024-05-24,,7,,,0,Cancelled,693,0,Strike,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00356,2023-11-13,2023-11-26,2023-11-21,13,8.0,-5.0,1,Completed,847,847,,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00357,2025-03-15,2025-03-30,2025-03-22,15,7.0,-8.0,1,Completed,159,159,,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00358,2025-03-09,2025-04-05,,27,,,0,Cancelled,427,0,Customs,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00359,2024-08-24,2024-09-11,2024-09-12,18,19.0,1.0,0,Completed,676,676,Strike,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00360,2023-11-11,2023-11-20,2023-11-25,9,14.0,5.0,0,Completed,167,167,Supplier delay,0
+S020,Mills Ltd,Rwanda,Automotive,O00361,2025-08-26,2025-09-25,2025-09-22,30,27.0,-3.0,1,Completed,959,959,,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00362,2025-05-10,2025-06-09,2025-06-17,30,38.0,8.0,0,Completed,570,570,Unknown,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00363,2025-02-15,2025-03-04,2025-03-05,17,18.0,1.0,0,Completed,800,800,Strike,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00364,2023-09-28,2023-10-09,2023-10-11,11,13.0,2.0,0,Completed,545,545,Weather,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00365,2023-10-17,2023-11-06,2023-11-04,20,18.0,-2.0,1,Partial,506,487,,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00366,2023-09-19,2023-10-04,2023-10-05,15,16.0,1.0,0,Completed,839,839,Strike,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00367,2025-03-31,2025-04-27,2025-04-29,27,29.0,2.0,0,Completed,358,358,Unknown,1
+S021,Taylor-Collins,Sri Lanka,Clothing,O00368,2023-10-02,2023-10-07,2023-10-04,5,2.0,-3.0,1,Partial,199,192,,1
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00369,2024-05-28,2024-06-12,2024-06-06,15,9.0,-6.0,1,Completed,623,623,,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00370,2025-03-08,2025-04-01,2025-04-03,24,26.0,2.0,0,Completed,933,933,Unknown,0
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00371,2025-06-17,2025-07-10,2025-07-09,23,22.0,-1.0,1,Partial,773,759,,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00372,2024-10-31,2024-11-06,2024-11-01,6,1.0,-5.0,1,Completed,542,542,,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00373,2024-04-29,2024-05-07,2024-05-06,8,7.0,-1.0,1,Partial,587,573,,1
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00374,2025-04-11,2025-04-17,2025-04-12,6,1.0,-5.0,1,Completed,497,497,,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00375,2023-12-01,2023-12-09,2023-12-11,8,10.0,2.0,0,Partial,348,341,Unknown,0
+S020,Mills Ltd,Rwanda,Automotive,O00376,2023-12-17,2023-12-27,2023-12-31,10,14.0,4.0,0,Completed,994,994,Unknown,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00377,2024-07-29,2024-08-19,2024-08-18,21,20.0,-1.0,1,Completed,688,688,,1
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00378,2023-11-18,2023-12-13,2023-12-09,25,21.0,-4.0,1,Partial,909,904,,1
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00379,2024-03-01,2024-03-31,2024-04-03,30,33.0,3.0,0,Completed,910,910,Strike,1
+S006,"Drake, Davidson and Moreno",Greece,Food,O00380,2024-12-01,2024-12-07,,6,,,1,Cancelled,636,0,,1
+S008,Rowe-Ward,Anguilla,Food,O00381,2025-02-02,2025-03-02,2025-03-07,28,33.0,5.0,0,Partial,962,945,Strike,1
+S002,Mason PLC,United States Virgin Islands,Food,O00382,2024-06-13,2024-06-22,2024-06-26,9,13.0,4.0,0,Partial,369,359,Customs,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00383,2023-12-12,2024-01-06,2024-01-04,25,23.0,-2.0,1,Completed,395,395,,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00384,2023-12-27,2024-01-06,2024-01-11,10,15.0,5.0,0,Completed,716,716,Unknown,1
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00385,2024-04-23,2024-05-22,2024-05-16,29,23.0,-6.0,1,Completed,474,474,,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00386,2025-07-25,2025-08-04,2025-07-29,10,4.0,-6.0,1,Partial,499,481,,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00387,2023-11-19,2023-12-08,2023-11-30,19,11.0,-8.0,1,Completed,827,827,,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00388,2025-07-09,2025-07-24,2025-07-27,15,18.0,3.0,0,Partial,57,48,Strike,0
+S025,Francis Group,Tokelau,Automotive,O00389,2024-06-15,2024-07-06,2024-07-06,21,21.0,0.0,1,Partial,133,130,,1
+S011,Liu-Gomez,Guam,Clothing,O00390,2025-08-18,2025-08-27,2025-08-26,9,8.0,-1.0,1,Completed,901,901,,0
+S040,Romero Ltd,Jamaica,Food,O00391,2024-11-17,2024-12-17,2024-12-18,30,31.0,1.0,0,Partial,698,682,Weather,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O00392,2025-03-21,2025-04-07,2025-04-10,17,20.0,3.0,0,Completed,962,962,Weather,0
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00393,2023-10-09,2023-10-26,2023-10-29,17,20.0,3.0,0,Completed,382,382,Unknown,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00394,2024-10-26,2024-11-01,2024-11-09,6,14.0,8.0,0,Completed,683,683,Unknown,1
+S050,Wright-Stewart,Azerbaijan,Automotive,O00395,2025-09-03,2025-09-12,2025-09-04,9,1.0,-8.0,1,Partial,773,768,,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00396,2023-09-28,2023-10-08,2023-10-09,10,11.0,1.0,0,Completed,757,757,Strike,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00397,2023-10-13,2023-10-29,2023-11-02,16,20.0,4.0,0,Partial,617,615,Supplier delay,0
+S012,Turner Ltd,Venezuela,Automotive,O00398,2024-11-23,2024-12-13,2024-12-13,20,20.0,0.0,1,Completed,233,233,,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00399,2025-04-19,2025-05-12,,23,,,1,Cancelled,815,0,,0
+S008,Rowe-Ward,Anguilla,Food,O00400,2024-08-08,2024-08-26,,18,,,1,Cancelled,867,0,,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00401,2025-05-23,2025-06-10,2025-06-26,18,34.0,16.0,0,Completed,356,356,Supplier delay,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00402,2024-08-25,2024-09-24,2024-09-22,30,28.0,-2.0,1,Completed,718,718,,0
+S013,Rodriguez PLC,Niue,Electronics,O00403,2024-04-17,2024-05-13,2024-05-15,26,28.0,2.0,0,Completed,609,609,Strike,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00404,2024-05-14,2024-06-09,2024-06-11,26,28.0,2.0,0,Completed,262,262,Customs,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00405,2023-12-18,2024-01-02,2023-12-20,15,2.0,-13.0,1,Completed,94,94,,0
+S008,Rowe-Ward,Anguilla,Food,O00406,2024-12-02,2024-12-10,2024-12-05,8,3.0,-5.0,1,Completed,446,446,,0
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00407,2025-07-07,2025-07-15,2025-07-15,8,8.0,0.0,1,Partial,556,536,,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00408,2024-08-16,2024-08-29,2024-08-23,13,7.0,-6.0,1,Completed,289,289,,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00409,2024-12-25,2024-12-30,2025-01-03,5,9.0,4.0,0,Completed,548,548,Unknown,0
+S020,Mills Ltd,Rwanda,Automotive,O00410,2025-07-12,2025-07-23,2025-07-21,11,9.0,-2.0,1,Partial,551,533,,1
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00411,2025-01-29,2025-02-22,2025-02-27,24,29.0,5.0,0,Completed,382,382,Customs,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00412,2023-10-27,2023-11-05,2023-11-05,9,9.0,0.0,1,Completed,428,428,,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00413,2023-12-26,2024-01-09,2024-01-18,14,23.0,9.0,0,Partial,86,73,Customs,0
+S012,Turner Ltd,Venezuela,Automotive,O00414,2025-04-27,2025-05-12,2025-05-13,15,16.0,1.0,0,Completed,937,937,Strike,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00415,2024-09-19,2024-10-18,2024-10-26,29,37.0,8.0,0,Completed,358,358,Weather,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00416,2024-12-01,2024-12-12,2024-12-06,11,5.0,-6.0,1,Completed,203,203,,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00417,2025-05-08,2025-05-25,2025-05-31,17,23.0,6.0,0,Completed,879,879,Strike,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00418,2025-01-04,2025-01-29,2025-01-23,25,19.0,-6.0,1,Completed,332,332,,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00419,2023-12-28,2024-01-06,2024-01-02,9,5.0,-4.0,1,Completed,873,873,,0
+S002,Mason PLC,United States Virgin Islands,Food,O00420,2025-07-06,2025-07-24,2025-07-28,18,22.0,4.0,0,Partial,432,428,Weather,1
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00421,2024-06-08,2024-06-28,2024-07-02,20,24.0,4.0,0,Completed,317,317,Unknown,0
+S042,Casey PLC,Colombia,Clothing,O00422,2025-02-07,2025-03-03,2025-02-25,24,18.0,-6.0,1,Partial,498,488,,0
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00423,2023-10-18,2023-10-23,2023-10-24,5,6.0,1.0,0,Partial,417,402,Supplier delay,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00424,2025-01-06,2025-01-23,2025-01-24,17,18.0,1.0,0,Completed,209,209,Customs,1
+S007,"Morris, Day and Miller",Dominica,Automotive,O00425,2025-04-08,2025-05-04,2025-05-01,26,23.0,-3.0,1,Completed,857,857,,0
+S048,Hodge PLC,Norfolk Island,Food,O00426,2023-12-27,2024-01-25,2024-01-25,29,29.0,0.0,1,Partial,961,952,,0
+S008,Rowe-Ward,Anguilla,Food,O00427,2025-07-06,2025-07-27,,21,,,1,Cancelled,487,0,,0
+S048,Hodge PLC,Norfolk Island,Food,O00428,2025-05-31,2025-06-05,2025-06-05,5,5.0,0.0,1,Completed,881,881,,0
+S040,Romero Ltd,Jamaica,Food,O00429,2025-08-09,2025-08-25,2025-08-29,16,20.0,4.0,0,Completed,248,248,Strike,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00430,2024-10-21,2024-11-16,2024-11-16,26,26.0,0.0,1,Completed,408,408,,1
+S043,"Garza, Martin and Thomas",Greece,Food,O00431,2024-10-25,2024-11-06,2024-11-07,12,13.0,1.0,0,Completed,722,722,Customs,0
+S026,Reid LLC,South Africa,Automotive,O00432,2023-11-25,2023-12-25,2023-12-17,30,22.0,-8.0,1,Completed,376,376,,0
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00433,2024-11-14,2024-12-08,2024-11-29,24,15.0,-9.0,1,Completed,281,281,,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00434,2024-07-23,2024-08-16,2024-08-20,24,28.0,4.0,0,Completed,95,95,Supplier delay,1
+S042,Casey PLC,Colombia,Clothing,O00435,2024-04-10,2024-05-07,2024-05-12,27,32.0,5.0,0,Completed,909,909,Supplier delay,0
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00436,2024-10-22,2024-11-15,2024-11-10,24,19.0,-5.0,1,Completed,948,948,,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00437,2024-06-21,2024-06-30,2024-06-22,9,1.0,-8.0,1,Completed,838,838,,1
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00438,2024-01-02,2024-01-30,2024-01-29,28,27.0,-1.0,1,Completed,696,696,,0
+S025,Francis Group,Tokelau,Automotive,O00439,2025-07-03,2025-07-20,2025-07-18,17,15.0,-2.0,1,Completed,52,52,,0
+S035,Meadows-Carr,Vanuatu,Food,O00440,2023-10-10,2023-11-01,2023-11-04,22,25.0,3.0,0,Partial,535,515,Supplier delay,0
+S044,Francis Ltd,Colombia,Clothing,O00441,2025-02-09,2025-03-08,2025-03-13,27,32.0,5.0,0,Completed,478,478,Weather,1
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00442,2025-07-16,2025-08-15,2025-08-11,30,26.0,-4.0,1,Completed,447,447,,1
+S001,Jenkins Inc,Mongolia,Clothing,O00443,2024-10-16,2024-11-01,2024-11-02,16,17.0,1.0,0,Completed,353,353,Customs,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00444,2025-03-04,2025-04-02,2025-03-30,29,26.0,-3.0,1,Partial,255,254,,1
+S036,"Perez, Watson and Jones",Angola,Electronics,O00445,2024-11-27,2024-12-23,,26,,,1,Cancelled,61,0,,1
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00446,2023-11-11,2023-12-01,2023-11-29,20,18.0,-2.0,1,Completed,188,188,,1
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00447,2024-09-13,2024-09-28,2024-09-27,15,14.0,-1.0,1,Completed,458,458,,0
+S013,Rodriguez PLC,Niue,Electronics,O00448,2025-07-30,2025-08-26,,27,,,1,Cancelled,578,0,,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00449,2025-05-03,2025-06-01,2025-05-29,29,26.0,-3.0,1,Completed,668,668,,0
+S011,Liu-Gomez,Guam,Clothing,O00450,2024-09-27,2024-10-27,2024-10-25,30,28.0,-2.0,1,Completed,705,705,,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O00451,2024-09-12,2024-09-26,2024-10-04,14,22.0,8.0,0,Completed,180,180,Supplier delay,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00452,2024-08-14,2024-09-06,2024-09-08,23,25.0,2.0,0,Completed,65,65,Strike,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00453,2025-04-03,2025-04-11,2025-04-20,8,17.0,9.0,0,Partial,351,331,Unknown,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00454,2024-07-04,2024-07-31,2024-08-04,27,31.0,4.0,0,Completed,978,978,Strike,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00455,2024-05-09,2024-05-19,2024-05-20,10,11.0,1.0,0,Completed,145,145,Weather,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00456,2024-04-27,2024-05-05,2024-05-17,8,20.0,12.0,0,Completed,57,57,Strike,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00457,2023-12-20,2024-01-09,2024-01-04,20,15.0,-5.0,1,Completed,168,168,,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00458,2024-10-25,2024-11-04,2024-10-27,10,2.0,-8.0,1,Partial,923,922,,1
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00459,2025-08-03,2025-08-21,2025-08-17,18,14.0,-4.0,1,Partial,741,738,,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00460,2025-02-12,2025-02-24,2025-02-23,12,11.0,-1.0,1,Completed,539,539,,1
+S036,"Perez, Watson and Jones",Angola,Electronics,O00461,2024-01-04,2024-01-12,2024-01-14,8,10.0,2.0,0,Partial,940,937,Strike,0
+S035,Meadows-Carr,Vanuatu,Food,O00462,2023-09-12,2023-10-09,2023-10-08,27,26.0,-1.0,1,Completed,320,320,,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00463,2025-04-28,2025-05-27,2025-05-31,29,33.0,4.0,0,Partial,504,499,Unknown,1
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00464,2024-05-09,2024-05-24,2024-05-23,15,14.0,-1.0,1,Partial,221,213,,1
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00465,2025-03-02,2025-03-19,2025-03-14,17,12.0,-5.0,1,Partial,312,311,,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00466,2024-03-24,2024-04-19,2024-04-14,26,21.0,-5.0,1,Completed,425,425,,0
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00467,2025-04-14,2025-05-03,2025-05-08,19,24.0,5.0,0,Completed,108,108,Supplier delay,0
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00468,2025-02-24,2025-03-20,2025-03-14,24,18.0,-6.0,1,Completed,205,205,,0
+S040,Romero Ltd,Jamaica,Food,O00469,2024-04-06,2024-05-06,2024-04-30,30,24.0,-6.0,1,Completed,985,985,,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00470,2024-07-25,2024-08-01,2024-07-27,7,2.0,-5.0,1,Completed,700,700,,1
+S038,Castaneda Group,Kyrgyz Republic,Food,O00471,2024-11-01,2024-11-12,2024-11-11,11,10.0,-1.0,1,Completed,412,412,,1
+S043,"Garza, Martin and Thomas",Greece,Food,O00472,2024-09-23,2024-09-28,2024-10-02,5,9.0,4.0,0,Completed,738,738,Supplier delay,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00473,2025-07-02,2025-07-23,2025-07-22,21,20.0,-1.0,1,Completed,989,989,,0
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00474,2024-03-16,2024-03-24,2024-03-24,8,8.0,0.0,1,Completed,775,775,,1
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00475,2024-11-25,2024-12-19,2024-12-22,24,27.0,3.0,0,Completed,897,897,Supplier delay,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00476,2025-03-14,2025-03-31,2025-03-29,17,15.0,-2.0,1,Completed,465,465,,0
+S035,Meadows-Carr,Vanuatu,Food,O00477,2023-11-21,2023-12-20,2023-12-27,29,36.0,7.0,0,Completed,740,740,Customs,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00478,2023-12-15,2023-12-21,2023-12-18,6,3.0,-3.0,1,Completed,967,967,,1
+S012,Turner Ltd,Venezuela,Automotive,O00479,2024-03-28,2024-04-10,2024-04-05,13,8.0,-5.0,1,Completed,731,731,,0
+S020,Mills Ltd,Rwanda,Automotive,O00480,2025-01-04,2025-01-16,2025-01-14,12,10.0,-2.0,1,Partial,477,475,,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00481,2024-08-01,2024-08-20,2024-08-21,19,20.0,1.0,0,Partial,711,691,Weather,1
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00482,2024-01-20,2024-02-02,2024-01-27,13,7.0,-6.0,1,Partial,651,632,,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00483,2024-04-16,2024-05-05,2024-05-05,19,19.0,0.0,1,Completed,588,588,,1
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00484,2025-06-27,2025-07-09,2025-07-05,12,8.0,-4.0,1,Completed,877,877,,1
+S006,"Drake, Davidson and Moreno",Greece,Food,O00485,2024-11-06,2024-11-23,,17,,,1,Cancelled,425,0,,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00486,2023-10-24,2023-11-01,,8,,,1,Cancelled,569,0,,0
+S002,Mason PLC,United States Virgin Islands,Food,O00487,2024-12-23,2025-01-17,2025-01-25,25,33.0,8.0,0,Completed,439,439,Strike,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00488,2024-08-11,2024-09-02,2024-09-07,22,27.0,5.0,0,Partial,116,112,Customs,1
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00489,2023-09-06,2023-09-17,2023-09-20,11,14.0,3.0,0,Partial,232,219,Customs,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00490,2024-12-19,2025-01-17,2025-01-17,29,29.0,0.0,1,Completed,809,809,,1
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00491,2025-07-03,2025-07-12,2025-07-22,9,19.0,10.0,0,Partial,674,661,Unknown,1
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00492,2024-01-13,2024-02-09,2024-02-03,27,21.0,-6.0,1,Completed,988,988,,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00493,2023-10-08,2023-11-02,2023-10-30,25,22.0,-3.0,1,Completed,464,464,,1
+S013,Rodriguez PLC,Niue,Electronics,O00494,2024-01-30,2024-02-05,2024-02-11,6,12.0,6.0,0,Completed,875,875,Strike,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O00495,2025-05-05,2025-05-20,2025-05-21,15,16.0,1.0,0,Completed,106,106,Weather,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00496,2025-03-19,2025-03-28,2025-04-07,9,19.0,10.0,0,Completed,590,590,Unknown,1
+S007,"Morris, Day and Miller",Dominica,Automotive,O00497,2024-04-22,2024-05-09,2024-05-07,17,15.0,-2.0,1,Partial,406,393,,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00498,2024-08-12,2024-09-06,2024-09-02,25,21.0,-4.0,1,Partial,620,615,,1
+S001,Jenkins Inc,Mongolia,Clothing,O00499,2025-03-24,2025-04-23,2025-04-23,30,30.0,0.0,1,Completed,401,401,,0
+S024,Simmons PLC,Isle of Man,Automotive,O00500,2024-02-22,2024-03-19,,26,,,1,Cancelled,697,0,,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00501,2023-09-26,2023-10-06,2023-10-06,10,10.0,0.0,1,Completed,552,552,,0
+S020,Mills Ltd,Rwanda,Automotive,O00502,2024-04-04,2024-05-03,2024-05-04,29,30.0,1.0,0,Completed,402,402,Supplier delay,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00503,2024-04-22,2024-05-03,2024-05-04,11,12.0,1.0,0,Completed,58,58,Weather,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00504,2025-04-16,2025-05-13,2025-04-30,27,14.0,-13.0,1,Completed,488,488,,0
+S044,Francis Ltd,Colombia,Clothing,O00505,2024-09-29,2024-10-12,2024-10-10,13,11.0,-2.0,1,Completed,497,497,,1
+S035,Meadows-Carr,Vanuatu,Food,O00506,2024-11-06,2024-11-11,2024-11-07,5,1.0,-4.0,1,Completed,820,820,,0
+S002,Mason PLC,United States Virgin Islands,Food,O00507,2024-05-10,2024-05-29,2024-05-29,19,19.0,0.0,1,Completed,180,180,,0
+S024,Simmons PLC,Isle of Man,Automotive,O00508,2025-09-02,2025-09-28,2025-10-05,26,33.0,7.0,0,Partial,418,403,Weather,1
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00509,2024-05-24,2024-06-02,2024-05-25,9,1.0,-8.0,1,Completed,935,935,,0
+S012,Turner Ltd,Venezuela,Automotive,O00510,2024-07-18,2024-08-05,2024-08-03,18,16.0,-2.0,1,Completed,983,983,,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00511,2025-07-28,2025-08-10,2025-08-07,13,10.0,-3.0,1,Completed,619,619,,0
+S035,Meadows-Carr,Vanuatu,Food,O00512,2024-08-06,2024-09-04,2024-09-01,29,26.0,-3.0,1,Completed,930,930,,0
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00513,2024-10-06,2024-10-19,2024-10-22,13,16.0,3.0,0,Completed,514,514,Supplier delay,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00514,2025-02-18,2025-03-02,2025-03-05,12,15.0,3.0,0,Partial,531,518,Weather,1
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00515,2024-08-10,2024-08-25,2024-09-03,15,24.0,9.0,0,Partial,801,797,Weather,0
+S033,Romero-Phillips,Mauritania,Automotive,O00516,2024-11-18,2024-12-18,2024-12-22,30,34.0,4.0,0,Completed,772,772,Customs,0
+S048,Hodge PLC,Norfolk Island,Food,O00517,2024-11-17,2024-12-06,2024-12-06,19,19.0,0.0,1,Completed,63,63,,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00518,2024-04-20,2024-05-06,2024-05-11,16,21.0,5.0,0,Partial,641,633,Strike,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00519,2025-04-10,2025-05-01,2025-04-27,21,17.0,-4.0,1,Completed,926,926,,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00520,2025-03-09,2025-03-21,2025-03-22,12,13.0,1.0,0,Completed,572,572,Supplier delay,1
+S033,Romero-Phillips,Mauritania,Automotive,O00521,2025-04-05,2025-04-28,2025-04-27,23,22.0,-1.0,1,Completed,520,520,,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00522,2025-08-14,2025-08-23,2025-08-28,9,14.0,5.0,0,Partial,661,659,Supplier delay,0
+S025,Francis Group,Tokelau,Automotive,O00523,2024-07-23,2024-08-05,2024-08-06,13,14.0,1.0,0,Completed,718,718,Unknown,1
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00524,2025-01-20,2025-01-30,2025-01-30,10,10.0,0.0,1,Completed,962,962,,0
+S026,Reid LLC,South Africa,Automotive,O00525,2024-11-20,2024-12-14,2024-12-21,24,31.0,7.0,0,Completed,441,441,Weather,0
+S008,Rowe-Ward,Anguilla,Food,O00526,2024-08-04,2024-08-26,2024-08-24,22,20.0,-2.0,1,Partial,478,467,,1
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00527,2025-02-28,2025-03-26,2025-03-21,26,21.0,-5.0,1,Completed,799,799,,1
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00528,2024-03-14,2024-04-02,2024-04-02,19,19.0,0.0,1,Partial,520,500,,1
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00529,2025-04-26,2025-05-12,2025-05-18,16,22.0,6.0,0,Completed,294,294,Unknown,1
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00530,2024-02-05,2024-03-05,2024-02-27,29,22.0,-7.0,1,Completed,952,952,,0
+S042,Casey PLC,Colombia,Clothing,O00531,2023-10-13,2023-11-05,2023-11-03,23,21.0,-2.0,1,Completed,73,73,,1
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00532,2024-03-26,2024-04-09,2024-04-07,14,12.0,-2.0,1,Completed,488,488,,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00533,2025-01-30,2025-02-12,2025-02-06,13,7.0,-6.0,1,Completed,465,465,,0
+S026,Reid LLC,South Africa,Automotive,O00534,2025-07-21,2025-08-14,2025-08-12,24,22.0,-2.0,1,Completed,313,313,,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00535,2024-05-03,2024-05-19,2024-05-15,16,12.0,-4.0,1,Completed,683,683,,1
+S020,Mills Ltd,Rwanda,Automotive,O00536,2024-04-15,2024-05-11,2024-05-16,26,31.0,5.0,0,Completed,632,632,Weather,1
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00537,2024-10-07,2024-11-06,2024-10-27,30,20.0,-10.0,1,Partial,579,576,,0
+S009,Martinez PLC,Zambia,Automotive,O00538,2025-03-08,2025-03-23,2025-03-25,15,17.0,2.0,0,Partial,993,976,Weather,0
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00539,2024-04-06,2024-04-30,2024-04-26,24,20.0,-4.0,1,Completed,400,400,,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00540,2024-12-08,2024-12-20,2024-12-13,12,5.0,-7.0,1,Partial,530,512,,0
+S044,Francis Ltd,Colombia,Clothing,O00541,2024-12-29,2025-01-19,2025-01-17,21,19.0,-2.0,1,Completed,314,314,,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00542,2024-06-14,2024-06-22,2024-06-17,8,3.0,-5.0,1,Completed,291,291,,0
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00543,2024-08-17,2024-08-29,2024-08-25,12,8.0,-4.0,1,Completed,972,972,,0
+S001,Jenkins Inc,Mongolia,Clothing,O00544,2024-01-20,2024-02-17,2024-02-16,28,27.0,-1.0,1,Partial,559,547,,1
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00545,2025-03-06,2025-04-01,2025-04-09,26,34.0,8.0,0,Completed,112,112,Strike,1
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00546,2025-07-14,2025-07-19,2025-07-20,5,6.0,1.0,0,Completed,441,441,Weather,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00547,2024-09-07,2024-09-21,2024-09-28,14,21.0,7.0,0,Completed,343,343,Unknown,1
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00548,2024-11-18,2024-11-28,2024-11-29,10,11.0,1.0,0,Completed,399,399,Strike,1
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00549,2024-02-28,2024-03-11,2024-03-04,12,5.0,-7.0,1,Completed,217,217,,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00550,2023-10-27,2023-11-22,2023-11-23,26,27.0,1.0,0,Completed,662,662,Unknown,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00551,2024-11-02,2024-11-07,2024-11-05,5,3.0,-2.0,1,Completed,243,243,,0
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O00552,2025-01-17,2025-02-08,2025-02-01,22,15.0,-7.0,1,Completed,168,168,,0
+S025,Francis Group,Tokelau,Automotive,O00553,2024-07-28,2024-08-02,2024-08-06,5,9.0,4.0,0,Completed,948,948,Strike,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00554,2023-12-27,2024-01-02,2024-01-01,6,5.0,-1.0,1,Completed,717,717,,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00555,2024-02-14,2024-02-21,2024-02-22,7,8.0,1.0,0,Completed,389,389,Supplier delay,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00556,2024-01-25,2024-02-06,2024-02-10,12,16.0,4.0,0,Partial,423,406,Unknown,1
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00557,2024-05-08,2024-05-19,2024-05-10,11,2.0,-9.0,1,Partial,910,902,,1
+S009,Martinez PLC,Zambia,Automotive,O00558,2024-05-20,2024-06-01,2024-06-03,12,14.0,2.0,0,Completed,127,127,Unknown,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00559,2024-05-02,2024-05-19,2024-05-20,17,18.0,1.0,0,Partial,559,549,Unknown,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00560,2025-06-02,2025-06-18,2025-06-12,16,10.0,-6.0,1,Completed,488,488,,1
+S040,Romero Ltd,Jamaica,Food,O00561,2024-11-18,2024-11-26,2024-11-24,8,6.0,-2.0,1,Completed,634,634,,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00562,2023-09-10,2023-09-27,2023-09-30,17,20.0,3.0,0,Completed,977,977,Strike,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00563,2025-04-08,2025-04-14,2025-04-11,6,3.0,-3.0,1,Completed,851,851,,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00564,2025-03-13,2025-04-05,2025-04-02,23,20.0,-3.0,1,Completed,775,775,,1
+S006,"Drake, Davidson and Moreno",Greece,Food,O00565,2024-05-17,2024-06-10,2024-06-03,24,17.0,-7.0,1,Partial,301,282,,0
+S013,Rodriguez PLC,Niue,Electronics,O00566,2024-03-02,2024-03-26,2024-03-23,24,21.0,-3.0,1,Completed,298,298,,0
+S011,Liu-Gomez,Guam,Clothing,O00567,2024-07-06,2024-07-26,2024-07-27,20,21.0,1.0,0,Partial,401,392,Customs,0
+S001,Jenkins Inc,Mongolia,Clothing,O00568,2025-03-10,2025-04-02,2025-04-08,23,29.0,6.0,0,Completed,549,549,Strike,0
+S024,Simmons PLC,Isle of Man,Automotive,O00569,2025-08-26,2025-09-14,2025-09-19,19,24.0,5.0,0,Partial,122,106,Unknown,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00570,2023-12-03,2023-12-09,2023-12-06,6,3.0,-3.0,1,Completed,307,307,,0
+S035,Meadows-Carr,Vanuatu,Food,O00571,2025-02-27,2025-03-28,2025-03-21,29,22.0,-7.0,1,Partial,620,608,,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O00572,2024-05-26,2024-06-13,2024-06-16,18,21.0,3.0,0,Partial,936,926,Unknown,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00573,2024-01-08,2024-01-24,2024-01-16,16,8.0,-8.0,1,Completed,373,373,,0
+S042,Casey PLC,Colombia,Clothing,O00574,2024-05-24,2024-06-10,2024-06-01,17,8.0,-9.0,1,Completed,445,445,,0
+S042,Casey PLC,Colombia,Clothing,O00575,2025-03-02,2025-03-31,2025-04-02,29,31.0,2.0,0,Partial,805,802,Customs,1
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00576,2023-12-14,2024-01-11,2024-01-10,28,27.0,-1.0,1,Completed,123,123,,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00577,2025-03-30,2025-04-12,2025-04-15,13,16.0,3.0,0,Completed,837,837,Customs,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00578,2024-05-02,2024-06-01,2024-06-02,30,31.0,1.0,0,Completed,721,721,Unknown,1
+S050,Wright-Stewart,Azerbaijan,Automotive,O00579,2025-07-26,2025-08-09,2025-08-11,14,16.0,2.0,0,Completed,567,567,Customs,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00580,2025-02-25,2025-03-08,2025-03-09,11,12.0,1.0,0,Completed,953,953,Supplier delay,1
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O00581,2024-05-04,2024-05-24,2024-06-04,20,31.0,11.0,0,Completed,578,578,Customs,0
+S026,Reid LLC,South Africa,Automotive,O00582,2024-02-10,2024-02-16,2024-02-14,6,4.0,-2.0,1,Completed,214,214,,1
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00583,2024-09-10,2024-09-21,2024-09-16,11,6.0,-5.0,1,Partial,82,63,,1
+S024,Simmons PLC,Isle of Man,Automotive,O00584,2024-12-21,2024-12-27,2024-12-29,6,8.0,2.0,0,Completed,861,861,Customs,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00585,2025-03-05,2025-03-24,2025-03-30,19,25.0,6.0,0,Partial,964,948,Customs,0
+S001,Jenkins Inc,Mongolia,Clothing,O00586,2025-06-05,2025-06-25,2025-06-28,20,23.0,3.0,0,Completed,288,288,Weather,1
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00587,2024-05-01,2024-05-20,2024-05-31,19,30.0,11.0,0,Completed,380,380,Supplier delay,0
+S026,Reid LLC,South Africa,Automotive,O00588,2024-12-15,2025-01-13,2025-01-13,29,29.0,0.0,1,Completed,519,519,,0
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00589,2024-10-16,2024-11-04,2024-11-09,19,24.0,5.0,0,Partial,276,274,Customs,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00590,2024-10-18,2024-10-23,2024-10-21,5,3.0,-2.0,1,Completed,123,123,,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00591,2024-06-06,2024-06-13,2024-06-20,7,14.0,7.0,0,Completed,728,728,Weather,0
+S001,Jenkins Inc,Mongolia,Clothing,O00592,2024-04-25,2024-05-13,2024-05-08,18,13.0,-5.0,1,Completed,973,973,,1
+S013,Rodriguez PLC,Niue,Electronics,O00593,2023-09-12,2023-09-18,2023-09-16,6,4.0,-2.0,1,Completed,351,351,,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00594,2024-06-03,2024-06-24,2024-06-20,21,17.0,-4.0,1,Completed,267,267,,1
+S038,Castaneda Group,Kyrgyz Republic,Food,O00595,2024-10-09,2024-11-02,2024-10-28,24,19.0,-5.0,1,Completed,581,581,,1
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00596,2025-02-04,2025-02-16,2025-02-19,12,15.0,3.0,0,Completed,651,651,Unknown,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00597,2023-11-09,2023-11-24,2023-11-23,15,14.0,-1.0,1,Completed,92,92,,1
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00598,2023-10-20,2023-10-28,2023-10-28,8,8.0,0.0,1,Partial,216,215,,1
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00599,2024-05-06,2024-05-13,2024-05-16,7,10.0,3.0,0,Completed,660,660,Weather,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00600,2023-10-19,2023-11-06,2023-11-07,18,19.0,1.0,0,Completed,793,793,Weather,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00601,2023-09-16,2023-10-16,2023-10-16,30,30.0,0.0,1,Completed,974,974,,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00602,2024-07-01,2024-07-12,2024-07-11,11,10.0,-1.0,1,Completed,318,318,,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00603,2023-12-12,2024-01-07,2024-01-04,26,23.0,-3.0,1,Completed,183,183,,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00604,2024-10-16,2024-11-04,2024-10-29,19,13.0,-6.0,1,Completed,321,321,,0
+S002,Mason PLC,United States Virgin Islands,Food,O00605,2025-02-22,2025-03-02,2025-03-02,8,8.0,0.0,1,Partial,992,973,,1
+S001,Jenkins Inc,Mongolia,Clothing,O00606,2024-09-29,2024-10-14,2024-10-11,15,12.0,-3.0,1,Partial,570,555,,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00607,2025-07-01,2025-07-25,2025-07-27,24,26.0,2.0,0,Completed,199,199,Customs,0
+S026,Reid LLC,South Africa,Automotive,O00608,2024-06-24,2024-07-06,,12,,,0,Cancelled,830,0,Unknown,1
+S002,Mason PLC,United States Virgin Islands,Food,O00609,2025-04-01,2025-04-26,2025-04-24,25,23.0,-2.0,1,Completed,935,935,,1
+S042,Casey PLC,Colombia,Clothing,O00610,2024-05-11,2024-05-26,2024-05-27,15,16.0,1.0,0,Partial,203,196,Strike,0
+S026,Reid LLC,South Africa,Automotive,O00611,2023-11-08,2023-11-15,2023-11-22,7,14.0,7.0,0,Completed,931,931,Weather,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00612,2024-01-14,2024-01-19,2024-01-25,5,11.0,6.0,0,Partial,991,978,Customs,0
+S013,Rodriguez PLC,Niue,Electronics,O00613,2025-02-22,2025-03-10,2025-03-14,16,20.0,4.0,0,Completed,131,131,Customs,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00614,2023-09-22,2023-10-04,2023-10-07,12,15.0,3.0,0,Completed,951,951,Unknown,0
+S042,Casey PLC,Colombia,Clothing,O00615,2023-09-08,2023-10-07,2023-10-03,29,25.0,-4.0,1,Completed,970,970,,0
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00616,2025-06-24,2025-07-06,2025-07-05,12,11.0,-1.0,1,Completed,445,445,,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00617,2025-04-03,2025-04-10,2025-04-19,7,16.0,9.0,0,Completed,268,268,Supplier delay,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00618,2024-12-31,2025-01-25,2025-02-05,25,36.0,11.0,0,Completed,481,481,Unknown,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O00619,2024-09-26,2024-10-10,2024-10-04,14,8.0,-6.0,1,Partial,465,458,,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O00620,2024-07-27,2024-08-10,2024-08-11,14,15.0,1.0,0,Completed,880,880,Strike,1
+S028,Howe Group,Nauru,Pharmaceuticals,O00621,2024-05-29,2024-06-22,2024-06-18,24,20.0,-4.0,1,Completed,358,358,,1
+S033,Romero-Phillips,Mauritania,Automotive,O00622,2024-02-26,2024-03-19,2024-03-16,22,19.0,-3.0,1,Completed,764,764,,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00623,2024-02-05,2024-02-22,2024-02-22,17,17.0,0.0,1,Completed,608,608,,0
+S048,Hodge PLC,Norfolk Island,Food,O00624,2025-03-16,2025-03-22,2025-03-22,6,6.0,0.0,1,Completed,105,105,,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00625,2024-10-20,2024-10-31,2024-11-01,11,12.0,1.0,0,Partial,674,660,Customs,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00626,2024-11-09,2024-11-21,2024-11-24,12,15.0,3.0,0,Completed,361,361,Customs,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00627,2024-07-17,2024-07-23,2024-07-19,6,2.0,-4.0,1,Completed,617,617,,0
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00628,2024-05-05,2024-05-11,2024-05-18,6,13.0,7.0,0,Completed,762,762,Customs,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00629,2024-03-12,2024-03-21,2024-03-31,9,19.0,10.0,0,Completed,585,585,Supplier delay,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00630,2024-09-19,2024-10-04,2024-10-01,15,12.0,-3.0,1,Completed,442,442,,0
+S013,Rodriguez PLC,Niue,Electronics,O00631,2025-06-05,2025-06-26,2025-06-29,21,24.0,3.0,0,Completed,307,307,Strike,1
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00632,2024-11-21,2024-11-30,2024-11-23,9,2.0,-7.0,1,Completed,774,774,,0
+S012,Turner Ltd,Venezuela,Automotive,O00633,2023-11-12,2023-11-23,2023-11-19,11,7.0,-4.0,1,Completed,432,432,,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00634,2025-01-18,2025-02-05,2025-02-13,18,26.0,8.0,0,Completed,458,458,Unknown,0
+S024,Simmons PLC,Isle of Man,Automotive,O00635,2025-08-08,2025-08-27,2025-08-30,19,22.0,3.0,0,Completed,888,888,Strike,0
+S002,Mason PLC,United States Virgin Islands,Food,O00636,2024-10-11,2024-10-20,2024-10-19,9,8.0,-1.0,1,Completed,699,699,,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00637,2023-12-21,2024-01-08,2024-01-05,18,15.0,-3.0,1,Partial,335,324,,1
+S006,"Drake, Davidson and Moreno",Greece,Food,O00638,2023-11-22,2023-12-01,2023-12-09,9,17.0,8.0,0,Completed,794,794,Customs,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00639,2025-01-12,2025-02-09,2025-02-10,28,29.0,1.0,0,Completed,594,594,Unknown,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00640,2025-03-31,2025-04-07,2025-04-06,7,6.0,-1.0,1,Completed,535,535,,0
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00641,2023-11-21,2023-12-09,2023-12-17,18,26.0,8.0,0,Completed,782,782,Supplier delay,0
+S025,Francis Group,Tokelau,Automotive,O00642,2024-04-20,2024-05-04,2024-05-04,14,14.0,0.0,1,Partial,385,365,,0
+S035,Meadows-Carr,Vanuatu,Food,O00643,2024-06-03,2024-06-08,2024-06-13,5,10.0,5.0,0,Completed,104,104,Strike,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O00644,2023-11-13,2023-12-05,2023-11-28,22,15.0,-7.0,1,Partial,669,668,,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00645,2025-01-06,2025-01-11,2025-01-12,5,6.0,1.0,0,Completed,364,364,Unknown,0
+S009,Martinez PLC,Zambia,Automotive,O00646,2023-09-15,2023-09-26,2023-09-28,11,13.0,2.0,0,Completed,399,399,Strike,0
+S048,Hodge PLC,Norfolk Island,Food,O00647,2023-10-16,2023-10-27,2023-10-29,11,13.0,2.0,0,Completed,546,546,Supplier delay,0
+S001,Jenkins Inc,Mongolia,Clothing,O00648,2024-07-12,2024-08-06,2024-08-09,25,28.0,3.0,0,Partial,539,525,Customs,0
+S042,Casey PLC,Colombia,Clothing,O00649,2023-12-03,2023-12-08,2023-12-04,5,1.0,-4.0,1,Completed,341,341,,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00650,2023-12-22,2024-01-09,2024-01-10,18,19.0,1.0,0,Completed,257,257,Supplier delay,1
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00651,2025-07-05,2025-07-23,2025-07-22,18,17.0,-1.0,1,Partial,708,698,,1
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00652,2025-02-21,2025-03-19,2025-03-20,26,27.0,1.0,0,Completed,976,976,Customs,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00653,2024-04-08,2024-04-22,2024-04-26,14,18.0,4.0,0,Partial,902,894,Unknown,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00654,2025-03-30,2025-04-21,2025-04-19,22,20.0,-2.0,1,Completed,383,383,,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00655,2025-07-07,2025-08-03,2025-08-02,27,26.0,-1.0,1,Partial,333,322,,1
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00656,2024-12-28,2025-01-14,2025-01-13,17,16.0,-1.0,1,Completed,419,419,,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00657,2024-10-16,2024-11-05,2024-11-04,20,19.0,-1.0,1,Partial,425,415,,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00658,2024-06-29,2024-07-18,2024-07-21,19,22.0,3.0,0,Partial,794,774,Customs,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00659,2024-11-09,2024-11-27,2024-12-05,18,26.0,8.0,0,Completed,606,606,Unknown,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00660,2024-06-23,2024-07-20,2024-07-26,27,33.0,6.0,0,Completed,381,381,Unknown,0
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00661,2023-09-18,2023-09-29,,11,,,1,Cancelled,278,0,,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00662,2024-11-29,2024-12-04,2024-11-30,5,1.0,-4.0,1,Partial,248,231,,1
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00663,2025-02-19,2025-03-12,2025-03-08,21,17.0,-4.0,1,Completed,236,236,,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00664,2024-10-12,2024-10-21,2024-10-25,9,13.0,4.0,0,Completed,508,508,Supplier delay,1
+S025,Francis Group,Tokelau,Automotive,O00665,2024-08-10,2024-09-08,2024-09-16,29,37.0,8.0,0,Partial,219,199,Unknown,1
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00666,2023-09-16,2023-10-14,2023-10-23,28,37.0,9.0,0,Completed,211,211,Supplier delay,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00667,2024-09-16,2024-09-24,2024-10-11,8,25.0,17.0,0,Partial,803,788,Supplier delay,0
+S024,Simmons PLC,Isle of Man,Automotive,O00668,2024-09-15,2024-10-15,2024-10-21,30,36.0,6.0,0,Completed,749,749,Strike,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00669,2024-01-28,2024-02-24,2024-02-17,27,20.0,-7.0,1,Partial,71,55,,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00670,2023-12-27,2024-01-06,2024-01-10,10,14.0,4.0,0,Partial,731,722,Customs,0
+S013,Rodriguez PLC,Niue,Electronics,O00671,2025-03-31,2025-04-06,2025-04-07,6,7.0,1.0,0,Completed,746,746,Weather,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O00672,2023-09-23,2023-10-15,2023-10-15,22,22.0,0.0,1,Completed,213,213,,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O00673,2024-05-20,2024-05-28,2024-06-01,8,12.0,4.0,0,Completed,228,228,Strike,1
+S002,Mason PLC,United States Virgin Islands,Food,O00674,2024-10-06,2024-10-15,2024-10-18,9,12.0,3.0,0,Completed,368,368,Strike,0
+S020,Mills Ltd,Rwanda,Automotive,O00675,2024-11-11,2024-12-11,2024-12-15,30,34.0,4.0,0,Completed,156,156,Supplier delay,0
+S001,Jenkins Inc,Mongolia,Clothing,O00676,2025-03-13,2025-04-10,2025-04-14,28,32.0,4.0,0,Completed,658,658,Weather,1
+S033,Romero-Phillips,Mauritania,Automotive,O00677,2025-07-14,2025-08-09,2025-07-31,26,17.0,-9.0,1,Completed,954,954,,1
+S033,Romero-Phillips,Mauritania,Automotive,O00678,2024-05-30,2024-06-21,2024-06-19,22,20.0,-2.0,1,Completed,347,347,,0
+S044,Francis Ltd,Colombia,Clothing,O00679,2023-12-24,2024-01-16,2024-01-17,23,24.0,1.0,0,Completed,246,246,Supplier delay,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00680,2023-09-27,2023-10-03,2023-10-08,6,11.0,5.0,0,Completed,915,915,Unknown,1
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00681,2024-03-30,2024-04-25,2024-05-01,26,32.0,6.0,0,Partial,512,496,Weather,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00682,2025-01-01,2025-01-24,2025-01-21,23,20.0,-3.0,1,Completed,564,564,,0
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00683,2024-05-16,2024-06-06,2024-06-07,21,22.0,1.0,0,Partial,556,537,Unknown,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00684,2025-05-22,2025-06-18,2025-06-22,27,31.0,4.0,0,Completed,224,224,Supplier delay,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00685,2023-09-30,2023-10-12,2023-10-10,12,10.0,-2.0,1,Completed,574,574,,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00686,2023-12-30,2024-01-20,2024-01-29,21,30.0,9.0,0,Completed,922,922,Customs,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00687,2025-06-19,2025-07-01,2025-07-08,12,19.0,7.0,0,Completed,865,865,Strike,1
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00688,2025-05-11,2025-05-16,2025-05-20,5,9.0,4.0,0,Completed,932,932,Unknown,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O00689,2024-07-10,2024-08-02,2024-08-09,23,30.0,7.0,0,Partial,726,720,Unknown,0
+S026,Reid LLC,South Africa,Automotive,O00690,2024-09-06,2024-09-11,2024-09-07,5,1.0,-4.0,1,Partial,408,397,,0
+S044,Francis Ltd,Colombia,Clothing,O00691,2024-01-11,2024-02-10,2024-01-30,30,19.0,-11.0,1,Completed,580,580,,1
+S009,Martinez PLC,Zambia,Automotive,O00692,2024-10-28,2024-11-11,2024-11-11,14,14.0,0.0,1,Completed,899,899,,1
+S033,Romero-Phillips,Mauritania,Automotive,O00693,2024-01-12,2024-02-11,2024-02-09,30,28.0,-2.0,1,Partial,592,582,,0
+S040,Romero Ltd,Jamaica,Food,O00694,2024-06-08,2024-07-04,2024-07-02,26,24.0,-2.0,1,Partial,673,670,,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00695,2023-12-08,2024-01-07,2024-01-04,30,27.0,-3.0,1,Completed,268,268,,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00696,2024-05-04,2024-05-20,2024-05-11,16,7.0,-9.0,1,Completed,1000,1000,,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00697,2024-01-15,2024-02-11,2024-02-18,27,34.0,7.0,0,Completed,181,181,Supplier delay,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00698,2025-05-27,2025-06-19,,23,,,1,Cancelled,920,0,,1
+S038,Castaneda Group,Kyrgyz Republic,Food,O00699,2025-06-17,2025-06-27,2025-06-20,10,3.0,-7.0,1,Completed,141,141,,0
+S024,Simmons PLC,Isle of Man,Automotive,O00700,2025-01-02,2025-01-18,2025-01-22,16,20.0,4.0,0,Partial,944,926,Unknown,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00701,2023-10-04,2023-10-11,2023-10-14,7,10.0,3.0,0,Completed,891,891,Unknown,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00702,2024-09-05,2024-09-19,2024-09-15,14,10.0,-4.0,1,Partial,925,918,,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00703,2024-05-02,2024-05-23,2024-05-15,21,13.0,-8.0,1,Completed,663,663,,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00704,2024-02-05,2024-02-27,2024-02-29,22,24.0,2.0,0,Completed,729,729,Strike,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00705,2024-02-01,2024-02-14,2024-02-12,13,11.0,-2.0,1,Completed,188,188,,1
+S009,Martinez PLC,Zambia,Automotive,O00706,2023-11-18,2023-12-11,2023-12-19,23,31.0,8.0,0,Completed,373,373,Supplier delay,0
+S024,Simmons PLC,Isle of Man,Automotive,O00707,2024-10-06,2024-10-21,2024-10-20,15,14.0,-1.0,1,Partial,657,645,,0
+S044,Francis Ltd,Colombia,Clothing,O00708,2024-06-17,2024-07-07,2024-07-08,20,21.0,1.0,0,Completed,764,764,Unknown,0
+S008,Rowe-Ward,Anguilla,Food,O00709,2025-04-16,2025-05-02,2025-04-24,16,8.0,-8.0,1,Completed,702,702,,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00710,2025-02-22,2025-03-20,2025-03-31,26,37.0,11.0,0,Completed,824,824,Unknown,1
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00711,2024-07-15,2024-07-22,2024-07-21,7,6.0,-1.0,1,Completed,391,391,,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00712,2024-06-03,2024-06-20,2024-06-22,17,19.0,2.0,0,Completed,320,320,Customs,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00713,2024-04-28,2024-05-05,2024-04-30,7,2.0,-5.0,1,Partial,584,576,,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00714,2024-10-26,2024-11-02,2024-10-31,7,5.0,-2.0,1,Completed,888,888,,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00715,2023-09-10,2023-10-04,2023-10-16,24,36.0,12.0,0,Completed,770,770,Weather,1
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00716,2024-10-28,2024-11-12,2024-11-09,15,12.0,-3.0,1,Completed,224,224,,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00717,2025-07-18,2025-08-15,2025-08-15,28,28.0,0.0,1,Completed,662,662,,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00718,2024-08-20,2024-09-05,2024-09-06,16,17.0,1.0,0,Partial,699,685,Weather,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O00719,2025-06-08,2025-06-30,2025-07-04,22,26.0,4.0,0,Completed,587,587,Weather,1
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00720,2024-06-20,2024-07-03,2024-07-06,13,16.0,3.0,0,Partial,56,36,Customs,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00721,2025-04-08,2025-04-27,2025-04-24,19,16.0,-3.0,1,Partial,226,213,,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00722,2024-10-20,2024-10-29,2024-11-01,9,12.0,3.0,0,Completed,425,425,Unknown,0
+S042,Casey PLC,Colombia,Clothing,O00723,2023-11-28,2023-12-19,2023-12-26,21,28.0,7.0,0,Completed,553,553,Supplier delay,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00724,2025-02-18,2025-03-14,2025-03-16,24,26.0,2.0,0,Completed,475,475,Strike,1
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00725,2025-04-09,2025-04-22,2025-04-27,13,18.0,5.0,0,Completed,232,232,Supplier delay,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00726,2023-11-13,2023-12-06,2023-12-08,23,25.0,2.0,0,Partial,675,660,Weather,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00727,2024-05-11,2024-05-20,2024-05-12,9,1.0,-8.0,1,Completed,650,650,,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00728,2024-02-15,2024-03-03,2024-03-05,17,19.0,2.0,0,Partial,825,807,Weather,1
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O00729,2025-02-03,2025-02-13,2025-02-04,10,1.0,-9.0,1,Completed,645,645,,0
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00730,2023-12-14,2023-12-23,2023-12-29,9,15.0,6.0,0,Completed,214,214,Supplier delay,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O00731,2024-12-15,2024-12-21,2024-12-19,6,4.0,-2.0,1,Completed,969,969,,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00732,2023-09-14,2023-09-26,2023-09-28,12,14.0,2.0,0,Partial,700,698,Supplier delay,0
+S040,Romero Ltd,Jamaica,Food,O00733,2024-07-20,2024-08-14,2024-08-10,25,21.0,-4.0,1,Completed,366,366,,1
+S008,Rowe-Ward,Anguilla,Food,O00734,2025-08-27,2025-09-23,2025-09-24,27,28.0,1.0,0,Completed,633,633,Supplier delay,1
+S044,Francis Ltd,Colombia,Clothing,O00735,2023-11-03,2023-11-23,2023-11-23,20,20.0,0.0,1,Completed,527,527,,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00736,2024-07-10,2024-07-16,2024-07-19,6,9.0,3.0,0,Completed,658,658,Customs,0
+S033,Romero-Phillips,Mauritania,Automotive,O00737,2025-05-06,2025-05-27,2025-06-02,21,27.0,6.0,0,Completed,766,766,Weather,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00738,2025-03-02,2025-03-21,2025-03-22,19,20.0,1.0,0,Partial,146,134,Unknown,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00739,2025-07-13,2025-08-05,2025-08-04,23,22.0,-1.0,1,Completed,69,69,,0
+S008,Rowe-Ward,Anguilla,Food,O00740,2025-09-03,2025-09-10,2025-09-12,7,9.0,2.0,0,Completed,898,898,Weather,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00741,2025-02-02,2025-02-09,2025-02-10,7,8.0,1.0,0,Partial,451,432,Supplier delay,1
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00742,2024-02-01,2024-02-08,2024-02-09,7,8.0,1.0,0,Completed,784,784,Customs,0
+S020,Mills Ltd,Rwanda,Automotive,O00743,2023-09-17,2023-10-10,2023-10-13,23,26.0,3.0,0,Partial,779,767,Weather,0
+S026,Reid LLC,South Africa,Automotive,O00744,2024-07-31,2024-08-18,2024-08-18,18,18.0,0.0,1,Completed,163,163,,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00745,2024-10-01,2024-10-25,2024-11-02,24,32.0,8.0,0,Completed,152,152,Customs,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00746,2024-07-02,2024-07-29,2024-07-21,27,19.0,-8.0,1,Completed,177,177,,0
+S009,Martinez PLC,Zambia,Automotive,O00747,2025-07-27,2025-08-14,2025-08-15,18,19.0,1.0,0,Completed,862,862,Customs,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00748,2025-04-09,2025-04-19,2025-04-17,10,8.0,-2.0,1,Completed,737,737,,0
+S026,Reid LLC,South Africa,Automotive,O00749,2024-04-04,2024-04-12,2024-04-18,8,14.0,6.0,0,Completed,375,375,Supplier delay,0
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O00750,2024-01-26,2024-02-20,2024-02-18,25,23.0,-2.0,1,Completed,476,476,,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O00751,2023-11-02,2023-12-01,2023-12-04,29,32.0,3.0,0,Completed,244,244,Customs,0
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00752,2025-05-24,2025-06-07,2025-06-05,14,12.0,-2.0,1,Partial,390,379,,0
+S011,Liu-Gomez,Guam,Clothing,O00753,2025-04-11,2025-04-29,2025-04-26,18,15.0,-3.0,1,Completed,588,588,,0
+S048,Hodge PLC,Norfolk Island,Food,O00754,2024-08-09,2024-08-28,2024-08-23,19,14.0,-5.0,1,Completed,573,573,,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O00755,2023-10-27,2023-11-15,2023-11-12,19,16.0,-3.0,1,Completed,97,97,,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00756,2024-11-27,2024-12-17,2024-12-22,20,25.0,5.0,0,Partial,461,460,Weather,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00757,2025-07-15,2025-07-30,2025-07-29,15,14.0,-1.0,1,Completed,113,113,,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00758,2024-11-28,2024-12-17,2024-12-14,19,16.0,-3.0,1,Completed,326,326,,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00759,2024-05-11,2024-06-06,2024-06-06,26,26.0,0.0,1,Completed,833,833,,0
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00760,2024-07-23,2024-08-09,2024-08-12,17,20.0,3.0,0,Completed,139,139,Strike,1
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00761,2024-08-31,2024-09-12,2024-09-11,12,11.0,-1.0,1,Completed,57,57,,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00762,2025-05-05,2025-05-20,2025-06-04,15,30.0,15.0,0,Completed,978,978,Strike,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00763,2024-02-20,2024-02-29,2024-03-04,9,13.0,4.0,0,Completed,163,163,Strike,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00764,2023-11-04,2023-11-17,2023-11-15,13,11.0,-2.0,1,Partial,514,497,,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O00765,2025-04-09,2025-04-24,2025-04-23,15,14.0,-1.0,1,Partial,638,629,,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00766,2024-12-23,2024-12-28,2024-12-25,5,2.0,-3.0,1,Completed,269,269,,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00767,2023-11-10,2023-12-09,2023-12-02,29,22.0,-7.0,1,Partial,748,739,,1
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00768,2023-12-13,2024-01-04,2024-01-04,22,22.0,0.0,1,Completed,938,938,,0
+S026,Reid LLC,South Africa,Automotive,O00769,2025-06-22,2025-07-14,2025-07-07,22,15.0,-7.0,1,Completed,525,525,,0
+S026,Reid LLC,South Africa,Automotive,O00770,2024-05-15,2024-06-14,2024-06-11,30,27.0,-3.0,1,Completed,466,466,,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00771,2023-10-02,2023-10-17,2023-10-19,15,17.0,2.0,0,Completed,600,600,Weather,0
+S042,Casey PLC,Colombia,Clothing,O00772,2024-12-13,2024-12-30,2025-01-03,17,21.0,4.0,0,Completed,755,755,Strike,1
+S007,"Morris, Day and Miller",Dominica,Automotive,O00773,2024-11-20,2024-11-26,2024-12-01,6,11.0,5.0,0,Partial,160,158,Customs,1
+S001,Jenkins Inc,Mongolia,Clothing,O00774,2024-11-20,2024-12-16,2024-12-14,26,24.0,-2.0,1,Completed,189,189,,0
+S033,Romero-Phillips,Mauritania,Automotive,O00775,2024-04-22,2024-05-21,2024-05-12,29,20.0,-9.0,1,Completed,454,454,,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00776,2023-09-28,2023-10-03,2023-10-06,5,8.0,3.0,0,Completed,616,616,Weather,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00777,2025-01-28,2025-02-04,2025-02-09,7,12.0,5.0,0,Completed,531,531,Strike,1
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00778,2024-06-18,2024-07-06,2024-07-01,18,13.0,-5.0,1,Partial,165,146,,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00779,2025-02-13,2025-03-01,2025-02-28,16,15.0,-1.0,1,Completed,331,331,,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00780,2024-01-11,2024-01-24,2024-02-01,13,21.0,8.0,0,Completed,298,298,Customs,1
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00781,2023-12-12,2024-01-03,2024-01-04,22,23.0,1.0,0,Completed,932,932,Weather,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00782,2023-12-21,2023-12-26,2024-01-05,5,15.0,10.0,0,Partial,627,615,Supplier delay,1
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00783,2025-03-20,2025-04-12,2025-04-15,23,26.0,3.0,0,Partial,798,787,Unknown,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00784,2025-03-27,2025-04-12,2025-04-08,16,12.0,-4.0,1,Completed,546,546,,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00785,2024-09-06,2024-09-27,2024-09-21,21,15.0,-6.0,1,Completed,326,326,,1
+S039,Newton-Smith,Sierra Leone,Electronics,O00786,2024-03-05,2024-03-17,2024-03-14,12,9.0,-3.0,1,Completed,62,62,,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00787,2024-10-21,2024-11-04,2024-10-29,14,8.0,-6.0,1,Completed,769,769,,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00788,2024-08-27,2024-09-06,2024-08-30,10,3.0,-7.0,1,Partial,782,765,,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00789,2024-07-23,2024-08-22,2024-08-28,30,36.0,6.0,0,Completed,823,823,Customs,1
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00790,2024-12-13,2024-12-22,2024-12-30,9,17.0,8.0,0,Completed,93,93,Weather,0
+S042,Casey PLC,Colombia,Clothing,O00791,2023-11-18,2023-11-24,2023-11-25,6,7.0,1.0,0,Completed,828,828,Customs,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00792,2025-01-28,2025-02-15,2025-02-17,18,20.0,2.0,0,Partial,830,820,Customs,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00793,2024-11-04,2024-12-02,2024-12-04,28,30.0,2.0,0,Completed,354,354,Supplier delay,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00794,2024-01-11,2024-01-21,2024-01-29,10,18.0,8.0,0,Completed,389,389,Supplier delay,0
+S009,Martinez PLC,Zambia,Automotive,O00795,2024-03-15,2024-04-14,2024-04-17,30,33.0,3.0,0,Completed,482,482,Strike,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00796,2024-11-06,2024-11-27,2024-11-25,21,19.0,-2.0,1,Completed,231,231,,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00797,2025-03-24,2025-04-20,2025-04-15,27,22.0,-5.0,1,Completed,672,672,,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00798,2024-08-06,2024-09-05,2024-09-06,30,31.0,1.0,0,Partial,444,426,Customs,0
+S044,Francis Ltd,Colombia,Clothing,O00799,2025-03-30,2025-04-04,2025-04-07,5,8.0,3.0,0,Completed,142,142,Customs,0
+S009,Martinez PLC,Zambia,Automotive,O00800,2023-11-16,2023-11-26,2023-11-27,10,11.0,1.0,0,Partial,815,798,Weather,1
+S035,Meadows-Carr,Vanuatu,Food,O00801,2024-04-15,2024-05-07,2024-05-06,22,21.0,-1.0,1,Completed,611,611,,1
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00802,2023-10-31,2023-11-15,2023-11-12,15,12.0,-3.0,1,Completed,250,250,,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O00803,2024-04-27,2024-05-25,2024-05-24,28,27.0,-1.0,1,Completed,309,309,,0
+S026,Reid LLC,South Africa,Automotive,O00804,2024-12-27,2025-01-23,2025-01-26,27,30.0,3.0,0,Completed,415,415,Unknown,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00805,2023-12-06,2024-01-01,2023-12-31,26,25.0,-1.0,1,Completed,447,447,,0
+S042,Casey PLC,Colombia,Clothing,O00806,2023-12-15,2024-01-02,2024-01-09,18,25.0,7.0,0,Completed,809,809,Weather,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00807,2024-07-28,2024-08-25,2024-08-27,28,30.0,2.0,0,Completed,712,712,Weather,1
+S008,Rowe-Ward,Anguilla,Food,O00808,2025-02-11,2025-02-27,2025-02-18,16,7.0,-9.0,1,Partial,582,569,,0
+S048,Hodge PLC,Norfolk Island,Food,O00809,2024-08-11,2024-09-10,2024-09-14,30,34.0,4.0,0,Partial,720,709,Customs,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00810,2024-03-28,2024-04-03,2024-04-05,6,8.0,2.0,0,Completed,754,754,Weather,0
+S040,Romero Ltd,Jamaica,Food,O00811,2024-10-07,2024-10-20,2024-10-31,13,24.0,11.0,0,Completed,189,189,Weather,1
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00812,2023-12-17,2023-12-26,2023-12-23,9,6.0,-3.0,1,Completed,392,392,,1
+S007,"Morris, Day and Miller",Dominica,Automotive,O00813,2024-05-19,2024-06-11,2024-06-17,23,29.0,6.0,0,Partial,788,771,Supplier delay,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00814,2023-10-31,2023-11-22,2023-11-25,22,25.0,3.0,0,Completed,559,559,Weather,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00815,2024-09-21,2024-10-01,2024-09-30,10,9.0,-1.0,1,Completed,75,75,,0
+S040,Romero Ltd,Jamaica,Food,O00816,2024-05-04,2024-05-28,2024-05-27,24,23.0,-1.0,1,Completed,615,615,,0
+S042,Casey PLC,Colombia,Clothing,O00817,2025-03-13,2025-04-07,2025-04-09,25,27.0,2.0,0,Partial,209,199,Customs,0
+S033,Romero-Phillips,Mauritania,Automotive,O00818,2023-12-04,2023-12-11,2023-12-08,7,4.0,-3.0,1,Completed,767,767,,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00819,2025-02-15,2025-02-22,2025-02-23,7,8.0,1.0,0,Completed,58,58,Unknown,1
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00820,2024-06-04,2024-06-21,2024-06-06,17,2.0,-15.0,1,Completed,256,256,,1
+S008,Rowe-Ward,Anguilla,Food,O00821,2023-10-10,2023-10-19,2023-10-14,9,4.0,-5.0,1,Partial,326,315,,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00822,2024-01-14,2024-02-11,2024-02-01,28,18.0,-10.0,1,Completed,276,276,,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00823,2024-05-15,2024-05-21,2024-05-29,6,14.0,8.0,0,Partial,803,799,Strike,0
+S048,Hodge PLC,Norfolk Island,Food,O00824,2023-09-13,2023-10-01,2023-10-03,18,20.0,2.0,0,Completed,387,387,Weather,0
+S035,Meadows-Carr,Vanuatu,Food,O00825,2024-09-11,2024-10-08,2024-10-11,27,30.0,3.0,0,Completed,974,974,Supplier delay,0
+S042,Casey PLC,Colombia,Clothing,O00826,2024-08-25,2024-09-10,2024-09-10,16,16.0,0.0,1,Completed,677,677,,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00827,2025-05-29,2025-06-16,2025-06-10,18,12.0,-6.0,1,Completed,79,79,,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00828,2025-02-14,2025-02-26,2025-02-22,12,8.0,-4.0,1,Completed,876,876,,0
+S033,Romero-Phillips,Mauritania,Automotive,O00829,2025-01-09,2025-01-14,2025-01-14,5,5.0,0.0,1,Partial,914,898,,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00830,2024-12-16,2025-01-10,2025-01-05,25,20.0,-5.0,1,Completed,650,650,,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00831,2025-01-01,2025-01-12,2025-01-08,11,7.0,-4.0,1,Completed,203,203,,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O00832,2023-12-18,2024-01-14,2024-01-08,27,21.0,-6.0,1,Partial,986,967,,1
+S033,Romero-Phillips,Mauritania,Automotive,O00833,2024-10-27,2024-11-21,2024-11-24,25,28.0,3.0,0,Completed,850,850,Supplier delay,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00834,2024-04-13,2024-05-01,2024-04-29,18,16.0,-2.0,1,Completed,723,723,,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O00835,2023-12-09,2023-12-24,2023-12-23,15,14.0,-1.0,1,Partial,376,365,,0
+S009,Martinez PLC,Zambia,Automotive,O00836,2023-09-14,2023-10-02,2023-10-08,18,24.0,6.0,0,Partial,63,52,Strike,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00837,2024-09-25,2024-10-21,2024-10-20,26,25.0,-1.0,1,Completed,682,682,,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00838,2025-04-16,2025-04-26,2025-05-03,10,17.0,7.0,0,Completed,986,986,Weather,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00839,2024-11-14,2024-11-28,2024-11-23,14,9.0,-5.0,1,Completed,273,273,,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O00840,2024-05-15,2024-05-31,2024-05-25,16,10.0,-6.0,1,Partial,310,307,,0
+S044,Francis Ltd,Colombia,Clothing,O00841,2023-09-30,2023-10-08,2023-10-07,8,7.0,-1.0,1,Completed,352,352,,1
+S002,Mason PLC,United States Virgin Islands,Food,O00842,2024-11-07,2024-11-26,2024-11-21,19,14.0,-5.0,1,Completed,190,190,,1
+S048,Hodge PLC,Norfolk Island,Food,O00843,2024-06-11,2024-07-04,2024-07-01,23,20.0,-3.0,1,Completed,733,733,,1
+S026,Reid LLC,South Africa,Automotive,O00844,2024-06-17,2024-07-15,2024-07-24,28,37.0,9.0,0,Completed,145,145,Customs,0
+S044,Francis Ltd,Colombia,Clothing,O00845,2025-08-03,2025-08-20,2025-08-20,17,17.0,0.0,1,Completed,323,323,,1
+S025,Francis Group,Tokelau,Automotive,O00846,2025-04-28,2025-05-19,2025-05-17,21,19.0,-2.0,1,Completed,634,634,,1
+S025,Francis Group,Tokelau,Automotive,O00847,2023-11-10,2023-12-04,2023-12-08,24,28.0,4.0,0,Completed,444,444,Strike,1
+S011,Liu-Gomez,Guam,Clothing,O00848,2024-06-26,2024-07-25,2024-07-26,29,30.0,1.0,0,Completed,302,302,Weather,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O00849,2025-03-11,2025-03-17,2025-03-14,6,3.0,-3.0,1,Completed,151,151,,0
+S025,Francis Group,Tokelau,Automotive,O00850,2024-01-03,2024-01-13,2024-01-08,10,5.0,-5.0,1,Completed,974,974,,0
+S002,Mason PLC,United States Virgin Islands,Food,O00851,2023-11-26,2023-12-11,2023-12-06,15,10.0,-5.0,1,Completed,919,919,,0
+S044,Francis Ltd,Colombia,Clothing,O00852,2025-02-05,2025-03-03,2025-03-11,26,34.0,8.0,0,Completed,226,226,Unknown,1
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00853,2023-12-28,2024-01-13,2024-01-14,16,17.0,1.0,0,Completed,722,722,Weather,0
+S020,Mills Ltd,Rwanda,Automotive,O00854,2024-01-07,2024-01-17,2024-01-17,10,10.0,0.0,1,Completed,520,520,,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00855,2024-08-24,2024-09-18,2024-09-15,25,22.0,-3.0,1,Completed,217,217,,0
+S025,Francis Group,Tokelau,Automotive,O00856,2025-07-29,2025-08-14,2025-08-17,16,19.0,3.0,0,Completed,119,119,Unknown,0
+S009,Martinez PLC,Zambia,Automotive,O00857,2024-08-05,2024-08-19,2024-08-25,14,20.0,6.0,0,Completed,229,229,Strike,0
+S042,Casey PLC,Colombia,Clothing,O00858,2023-12-11,2023-12-24,2023-12-19,13,8.0,-5.0,1,Partial,635,618,,1
+S009,Martinez PLC,Zambia,Automotive,O00859,2025-01-30,2025-02-25,,26,,,1,Cancelled,111,0,,1
+S038,Castaneda Group,Kyrgyz Republic,Food,O00860,2024-01-12,2024-02-09,2024-02-11,28,30.0,2.0,0,Completed,138,138,Strike,0
+S044,Francis Ltd,Colombia,Clothing,O00861,2024-10-07,2024-10-19,2024-10-17,12,10.0,-2.0,1,Completed,86,86,,1
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00862,2024-10-27,2024-11-24,2024-11-24,28,28.0,0.0,1,Completed,748,748,,1
+S028,Howe Group,Nauru,Pharmaceuticals,O00863,2024-06-01,2024-06-25,2024-06-27,24,26.0,2.0,0,Completed,594,594,Strike,1
+S002,Mason PLC,United States Virgin Islands,Food,O00864,2024-02-05,2024-02-26,2024-02-23,21,18.0,-3.0,1,Completed,417,417,,1
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00865,2024-05-29,2024-06-20,2024-06-25,22,27.0,5.0,0,Completed,631,631,Weather,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00866,2025-02-09,2025-02-27,2025-03-02,18,21.0,3.0,0,Completed,460,460,Supplier delay,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00867,2024-05-17,2024-06-10,2024-06-10,24,24.0,0.0,1,Completed,121,121,,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00868,2024-02-23,2024-03-11,2024-03-09,17,15.0,-2.0,1,Partial,655,641,,1
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00869,2025-06-21,2025-07-11,2025-07-13,20,22.0,2.0,0,Completed,420,420,Strike,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O00870,2025-04-11,2025-04-21,2025-04-21,10,10.0,0.0,1,Completed,519,519,,0
+S011,Liu-Gomez,Guam,Clothing,O00871,2025-03-05,2025-04-02,2025-04-01,28,27.0,-1.0,1,Partial,576,560,,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O00872,2025-06-17,2025-07-13,2025-07-17,26,30.0,4.0,0,Partial,335,329,Unknown,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00873,2025-08-05,2025-08-23,2025-08-29,18,24.0,6.0,0,Completed,333,333,Strike,1
+S013,Rodriguez PLC,Niue,Electronics,O00874,2025-02-16,2025-02-22,2025-02-28,6,12.0,6.0,0,Completed,943,943,Customs,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O00875,2023-09-20,2023-10-16,2023-10-14,26,24.0,-2.0,1,Completed,494,494,,1
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00876,2025-04-13,2025-05-04,2025-05-12,21,29.0,8.0,0,Partial,635,634,Customs,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00877,2024-02-12,2024-02-18,2024-02-18,6,6.0,0.0,1,Partial,459,452,,1
+S024,Simmons PLC,Isle of Man,Automotive,O00878,2024-07-16,2024-07-28,2024-07-27,12,11.0,-1.0,1,Partial,301,298,,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O00879,2025-04-06,2025-05-03,2025-05-10,27,34.0,7.0,0,Completed,923,923,Supplier delay,0
+S042,Casey PLC,Colombia,Clothing,O00880,2024-08-10,2024-09-04,2024-09-08,25,29.0,4.0,0,Partial,128,116,Strike,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00881,2024-03-10,2024-03-20,2024-03-15,10,5.0,-5.0,1,Completed,786,786,,0
+S008,Rowe-Ward,Anguilla,Food,O00882,2025-07-18,2025-08-01,2025-08-03,14,16.0,2.0,0,Completed,834,834,Customs,1
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00883,2025-07-03,2025-08-02,2025-08-03,30,31.0,1.0,0,Partial,130,122,Weather,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00884,2024-01-29,2024-02-03,2024-02-13,5,15.0,10.0,0,Completed,562,562,Weather,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00885,2023-12-05,2023-12-25,2023-12-13,20,8.0,-12.0,1,Completed,713,713,,1
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00886,2023-10-25,2023-11-23,2023-11-24,29,30.0,1.0,0,Completed,61,61,Supplier delay,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00887,2025-03-06,2025-03-23,2025-03-24,17,18.0,1.0,0,Completed,515,515,Weather,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00888,2025-06-17,2025-07-01,2025-06-25,14,8.0,-6.0,1,Completed,994,994,,1
+S048,Hodge PLC,Norfolk Island,Food,O00889,2024-03-22,2024-04-16,2024-04-11,25,20.0,-5.0,1,Completed,446,446,,0
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00890,2024-06-18,2024-07-04,2024-06-30,16,12.0,-4.0,1,Partial,185,174,,0
+S020,Mills Ltd,Rwanda,Automotive,O00891,2025-02-14,2025-02-22,2025-02-25,8,11.0,3.0,0,Completed,162,162,Strike,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00892,2024-04-19,2024-05-16,2024-05-13,27,24.0,-3.0,1,Completed,808,808,,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00893,2025-02-02,2025-02-15,2025-02-25,13,23.0,10.0,0,Completed,761,761,Unknown,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O00894,2023-10-31,2023-11-09,2023-11-12,9,12.0,3.0,0,Completed,54,54,Strike,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O00895,2024-02-24,2024-03-04,2024-02-29,9,5.0,-4.0,1,Partial,749,745,,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00896,2024-08-20,2024-09-06,2024-09-09,17,20.0,3.0,0,Completed,916,916,Customs,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00897,2024-05-21,2024-05-30,2024-06-01,9,11.0,2.0,0,Completed,103,103,Weather,1
+S040,Romero Ltd,Jamaica,Food,O00898,2025-08-15,2025-08-24,2025-08-19,9,4.0,-5.0,1,Completed,750,750,,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O00899,2025-08-17,2025-08-28,2025-08-25,11,8.0,-3.0,1,Completed,984,984,,0
+S039,Newton-Smith,Sierra Leone,Electronics,O00900,2024-06-19,2024-06-30,2024-06-30,11,11.0,0.0,1,Completed,779,779,,1
+S035,Meadows-Carr,Vanuatu,Food,O00901,2025-08-19,2025-08-26,2025-08-27,7,8.0,1.0,0,Partial,96,90,Weather,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00902,2025-01-26,2025-02-13,2025-02-19,18,24.0,6.0,0,Completed,386,386,Supplier delay,0
+S035,Meadows-Carr,Vanuatu,Food,O00903,2025-02-27,2025-03-09,2025-03-20,10,21.0,11.0,0,Partial,870,854,Weather,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O00904,2024-04-12,2024-04-30,2024-04-29,18,17.0,-1.0,1,Partial,990,987,,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00905,2024-10-31,2024-11-09,2024-11-08,9,8.0,-1.0,1,Partial,184,179,,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00906,2023-11-05,2023-11-24,2023-11-29,19,24.0,5.0,0,Partial,752,746,Supplier delay,0
+S043,"Garza, Martin and Thomas",Greece,Food,O00907,2024-03-28,2024-04-14,2024-04-19,17,22.0,5.0,0,Completed,413,413,Weather,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00908,2024-12-18,2025-01-03,2025-01-07,16,20.0,4.0,0,Completed,766,766,Strike,1
+S006,"Drake, Davidson and Moreno",Greece,Food,O00909,2025-07-09,2025-07-16,2025-07-12,7,3.0,-4.0,1,Completed,216,216,,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00910,2025-04-13,2025-04-22,2025-04-17,9,4.0,-5.0,1,Completed,807,807,,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O00911,2024-02-07,2024-02-23,2024-02-28,16,21.0,5.0,0,Partial,864,857,Strike,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O00912,2023-10-09,2023-10-30,2023-11-05,21,27.0,6.0,0,Partial,204,194,Unknown,0
+S012,Turner Ltd,Venezuela,Automotive,O00913,2024-12-31,2025-01-27,2025-01-24,27,24.0,-3.0,1,Completed,909,909,,1
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O00914,2024-11-07,2024-11-27,2024-11-30,20,23.0,3.0,0,Completed,737,737,Strike,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00915,2025-04-03,2025-04-12,2025-04-18,9,15.0,6.0,0,Partial,228,215,Supplier delay,0
+S040,Romero Ltd,Jamaica,Food,O00916,2024-09-08,2024-09-18,2024-09-12,10,4.0,-6.0,1,Completed,599,599,,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00917,2025-02-21,2025-03-17,2025-03-13,24,20.0,-4.0,1,Completed,465,465,,1
+S021,Taylor-Collins,Sri Lanka,Clothing,O00918,2023-12-17,2023-12-22,2023-12-18,5,1.0,-4.0,1,Completed,876,876,,1
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00919,2023-12-18,2024-01-02,2023-12-30,15,12.0,-3.0,1,Partial,918,911,,1
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00920,2025-03-28,2025-04-27,2025-04-27,30,30.0,0.0,1,Completed,700,700,,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00921,2023-09-06,2023-10-06,2023-10-10,30,34.0,4.0,0,Completed,428,428,Supplier delay,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00922,2025-09-03,2025-09-21,2025-09-17,18,14.0,-4.0,1,Completed,420,420,,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00923,2024-06-10,2024-07-05,2024-07-10,25,30.0,5.0,0,Completed,672,672,Unknown,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00924,2023-10-07,2023-11-05,2023-11-12,29,36.0,7.0,0,Completed,174,174,Weather,0
+S011,Liu-Gomez,Guam,Clothing,O00925,2025-05-03,2025-05-13,2025-05-18,10,15.0,5.0,0,Completed,664,664,Weather,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O00926,2024-12-12,2025-01-11,2025-01-01,30,20.0,-10.0,1,Completed,772,772,,1
+S042,Casey PLC,Colombia,Clothing,O00927,2024-08-05,2024-08-31,2024-08-27,26,22.0,-4.0,1,Completed,988,988,,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00928,2024-03-12,2024-03-22,2024-03-15,10,3.0,-7.0,1,Completed,126,126,,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00929,2023-09-06,2023-10-06,2023-10-20,30,44.0,14.0,0,Completed,823,823,Strike,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00930,2024-12-31,2025-01-30,2025-01-25,30,25.0,-5.0,1,Completed,428,428,,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O00931,2024-06-27,2024-07-21,2024-07-18,24,21.0,-3.0,1,Completed,79,79,,0
+S035,Meadows-Carr,Vanuatu,Food,O00932,2024-08-31,2024-09-06,2024-09-07,6,7.0,1.0,0,Completed,190,190,Weather,0
+S002,Mason PLC,United States Virgin Islands,Food,O00933,2024-07-07,2024-07-21,2024-07-25,14,18.0,4.0,0,Completed,328,328,Strike,1
+S036,"Perez, Watson and Jones",Angola,Electronics,O00934,2023-11-24,2023-12-19,2023-12-25,25,31.0,6.0,0,Completed,255,255,Strike,0
+S026,Reid LLC,South Africa,Automotive,O00935,2024-01-13,2024-02-03,2024-02-08,21,26.0,5.0,0,Completed,758,758,Weather,0
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O00936,2025-07-29,2025-08-09,2025-08-09,11,11.0,0.0,1,Completed,268,268,,1
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O00937,2023-09-22,2023-10-09,2023-10-08,17,16.0,-1.0,1,Partial,447,437,,1
+S026,Reid LLC,South Africa,Automotive,O00938,2024-11-05,2024-11-21,2024-11-14,16,9.0,-7.0,1,Partial,465,458,,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00939,2025-03-09,2025-03-20,2025-03-16,11,7.0,-4.0,1,Completed,654,654,,0
+S024,Simmons PLC,Isle of Man,Automotive,O00940,2024-07-18,2024-08-06,2024-07-30,19,12.0,-7.0,1,Partial,759,754,,0
+S009,Martinez PLC,Zambia,Automotive,O00941,2023-10-09,2023-10-29,2023-11-03,20,25.0,5.0,0,Partial,228,227,Weather,1
+S044,Francis Ltd,Colombia,Clothing,O00942,2025-06-21,2025-07-02,2025-06-22,11,1.0,-10.0,1,Completed,635,635,,0
+S002,Mason PLC,United States Virgin Islands,Food,O00943,2023-12-27,2024-01-25,2024-01-22,29,26.0,-3.0,1,Completed,705,705,,1
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O00944,2024-10-22,2024-10-28,2024-10-24,6,2.0,-4.0,1,Completed,445,445,,1
+S043,"Garza, Martin and Thomas",Greece,Food,O00945,2025-04-03,2025-04-12,,9,,,1,Cancelled,537,0,,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00946,2024-09-12,2024-09-29,2024-10-03,17,21.0,4.0,0,Completed,284,284,Strike,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00947,2025-02-09,2025-02-17,2025-02-17,8,8.0,0.0,1,Completed,654,654,,1
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O00948,2024-11-09,2024-11-14,2024-11-12,5,3.0,-2.0,1,Completed,959,959,,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O00949,2023-09-24,2023-10-16,2023-10-20,22,26.0,4.0,0,Completed,342,342,Supplier delay,1
+S009,Martinez PLC,Zambia,Automotive,O00950,2025-01-14,2025-01-24,2025-01-31,10,17.0,7.0,0,Completed,814,814,Strike,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O00951,2025-01-04,2025-01-31,2025-02-04,27,31.0,4.0,0,Completed,824,824,Supplier delay,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O00952,2024-01-26,2024-02-19,2024-02-15,24,20.0,-4.0,1,Completed,426,426,,0
+S040,Romero Ltd,Jamaica,Food,O00953,2025-04-01,2025-04-08,2025-04-02,7,1.0,-6.0,1,Completed,458,458,,0
+S044,Francis Ltd,Colombia,Clothing,O00954,2023-10-13,2023-10-21,2023-10-29,8,16.0,8.0,0,Completed,89,89,Supplier delay,1
+S020,Mills Ltd,Rwanda,Automotive,O00955,2024-02-04,2024-02-17,2024-02-25,13,21.0,8.0,0,Completed,907,907,Supplier delay,1
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00956,2024-07-02,2024-07-26,2024-07-29,24,27.0,3.0,0,Completed,557,557,Supplier delay,0
+S028,Howe Group,Nauru,Pharmaceuticals,O00957,2024-02-27,2024-03-22,2024-03-24,24,26.0,2.0,0,Completed,383,383,Customs,0
+S026,Reid LLC,South Africa,Automotive,O00958,2024-06-03,2024-06-19,2024-06-24,16,21.0,5.0,0,Completed,434,434,Supplier delay,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00959,2023-12-14,2023-12-30,2024-01-01,16,18.0,2.0,0,Completed,223,223,Weather,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O00960,2024-09-11,2024-09-29,2024-10-01,18,20.0,2.0,0,Completed,991,991,Supplier delay,0
+S033,Romero-Phillips,Mauritania,Automotive,O00961,2023-09-09,2023-09-15,2023-09-10,6,1.0,-5.0,1,Completed,601,601,,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00962,2024-10-21,2024-10-31,2024-10-28,10,7.0,-3.0,1,Completed,243,243,,1
+S020,Mills Ltd,Rwanda,Automotive,O00963,2025-03-09,2025-03-22,2025-03-28,13,19.0,6.0,0,Completed,562,562,Customs,0
+S011,Liu-Gomez,Guam,Clothing,O00964,2024-10-09,2024-11-03,2024-11-07,25,29.0,4.0,0,Completed,232,232,Customs,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00965,2025-07-16,2025-07-23,2025-07-17,7,1.0,-6.0,1,Completed,703,703,,1
+S036,"Perez, Watson and Jones",Angola,Electronics,O00966,2023-12-22,2024-01-17,2024-01-17,26,26.0,0.0,1,Partial,910,895,,0
+S029,Archer Ltd,Liberia,Pharmaceuticals,O00967,2024-06-10,2024-06-18,2024-06-13,8,3.0,-5.0,1,Completed,424,424,,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00968,2024-03-29,2024-04-27,2024-04-29,29,31.0,2.0,0,Completed,660,660,Supplier delay,0
+S040,Romero Ltd,Jamaica,Food,O00969,2023-11-21,2023-12-21,2023-12-21,30,30.0,0.0,1,Completed,102,102,,0
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00970,2025-04-10,2025-04-16,2025-04-14,6,4.0,-2.0,1,Completed,978,978,,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00971,2025-03-03,2025-03-08,2025-03-04,5,1.0,-4.0,1,Completed,72,72,,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00972,2025-01-17,2025-01-31,2025-02-01,14,15.0,1.0,0,Partial,668,648,Supplier delay,1
+S011,Liu-Gomez,Guam,Clothing,O00973,2024-05-12,2024-05-31,2024-06-06,19,25.0,6.0,0,Completed,517,517,Strike,1
+S036,"Perez, Watson and Jones",Angola,Electronics,O00974,2024-07-07,2024-07-25,2024-07-22,18,15.0,-3.0,1,Completed,606,606,,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00975,2024-02-21,2024-03-11,2024-03-10,19,18.0,-1.0,1,Completed,84,84,,1
+S020,Mills Ltd,Rwanda,Automotive,O00976,2025-05-24,2025-06-18,2025-06-20,25,27.0,2.0,0,Completed,672,672,Strike,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O00977,2024-10-28,2024-11-26,2024-11-26,29,29.0,0.0,1,Completed,882,882,,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00978,2025-08-10,2025-08-18,2025-08-18,8,8.0,0.0,1,Completed,788,788,,0
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O00979,2025-06-15,2025-06-29,2025-06-27,14,12.0,-2.0,1,Partial,671,654,,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O00980,2024-04-20,2024-05-12,2024-05-20,22,30.0,8.0,0,Completed,941,941,Unknown,1
+S038,Castaneda Group,Kyrgyz Republic,Food,O00981,2025-06-09,2025-07-08,2025-07-11,29,32.0,3.0,0,Completed,988,988,Unknown,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O00982,2024-04-08,2024-04-30,2024-05-04,22,26.0,4.0,0,Partial,124,104,Unknown,0
+S044,Francis Ltd,Colombia,Clothing,O00983,2025-08-11,2025-09-05,2025-09-04,25,24.0,-1.0,1,Completed,137,137,,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O00984,2025-07-06,2025-08-04,2025-08-10,29,35.0,6.0,0,Completed,554,554,Supplier delay,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O00985,2025-03-13,2025-03-20,2025-03-14,7,1.0,-6.0,1,Completed,474,474,,0
+S012,Turner Ltd,Venezuela,Automotive,O00986,2025-01-13,2025-01-20,2025-01-29,7,16.0,9.0,0,Completed,156,156,Customs,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O00987,2024-02-12,2024-03-12,2024-03-19,29,36.0,7.0,0,Completed,545,545,Strike,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O00988,2025-05-30,2025-06-19,2025-06-17,20,18.0,-2.0,1,Completed,679,679,,1
+S042,Casey PLC,Colombia,Clothing,O00989,2025-05-26,2025-06-19,2025-06-16,24,21.0,-3.0,1,Completed,440,440,,0
+S042,Casey PLC,Colombia,Clothing,O00990,2024-03-26,2024-04-09,2024-04-04,14,9.0,-5.0,1,Completed,267,267,,1
+S039,Newton-Smith,Sierra Leone,Electronics,O00991,2024-12-18,2025-01-04,2025-01-01,17,14.0,-3.0,1,Completed,54,54,,1
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O00992,2025-03-09,2025-04-05,2025-04-01,27,23.0,-4.0,1,Completed,816,816,,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O00993,2023-09-08,2023-09-27,2023-09-22,19,14.0,-5.0,1,Partial,608,592,,1
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O00994,2025-01-28,2025-02-25,2025-02-17,28,20.0,-8.0,1,Completed,218,218,,1
+S043,"Garza, Martin and Thomas",Greece,Food,O00995,2025-04-18,2025-04-29,2025-04-23,11,5.0,-6.0,1,Partial,810,793,,1
+S021,Taylor-Collins,Sri Lanka,Clothing,O00996,2024-06-16,2024-07-13,2024-07-11,27,25.0,-2.0,1,Completed,636,636,,1
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O00997,2024-09-21,2024-09-30,2024-09-28,9,7.0,-2.0,1,Partial,88,70,,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O00998,2023-09-12,2023-09-22,2023-09-22,10,10.0,0.0,1,Completed,696,696,,0
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O00999,2025-06-13,2025-07-11,2025-07-11,28,28.0,0.0,1,Completed,274,274,,1
+S029,Archer Ltd,Liberia,Pharmaceuticals,O01000,2024-11-22,2024-12-17,2024-12-31,25,39.0,14.0,0,Partial,334,330,Supplier delay,0
+S013,Rodriguez PLC,Niue,Electronics,O01001,2025-06-10,2025-06-25,2025-06-23,15,13.0,-2.0,1,Completed,898,898,,0
+S001,Jenkins Inc,Mongolia,Clothing,O01002,2025-02-25,2025-03-12,2025-03-16,15,19.0,4.0,0,Completed,611,611,Strike,1
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O01003,2025-03-01,2025-03-10,2025-03-11,9,10.0,1.0,0,Completed,782,782,Supplier delay,0
+S039,Newton-Smith,Sierra Leone,Electronics,O01004,2024-10-29,2024-11-08,2024-11-16,10,18.0,8.0,0,Completed,162,162,Strike,1
+S044,Francis Ltd,Colombia,Clothing,O01005,2024-05-10,2024-05-21,2024-05-14,11,4.0,-7.0,1,Partial,164,154,,1
+S008,Rowe-Ward,Anguilla,Food,O01006,2024-08-08,2024-08-29,2024-08-30,21,22.0,1.0,0,Completed,477,477,Strike,0
+S025,Francis Group,Tokelau,Automotive,O01007,2023-10-09,2023-11-02,,24,,,1,Cancelled,366,0,,0
+S042,Casey PLC,Colombia,Clothing,O01008,2024-07-26,2024-08-25,2024-08-24,30,29.0,-1.0,1,Completed,174,174,,0
+S020,Mills Ltd,Rwanda,Automotive,O01009,2024-12-22,2025-01-02,2024-12-29,11,7.0,-4.0,1,Completed,896,896,,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O01010,2023-11-10,2023-12-09,2023-12-06,29,26.0,-3.0,1,Completed,496,496,,1
+S024,Simmons PLC,Isle of Man,Automotive,O01011,2024-05-11,2024-05-20,2024-05-20,9,9.0,0.0,1,Completed,428,428,,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O01012,2025-02-17,2025-03-13,2025-03-10,24,21.0,-3.0,1,Completed,489,489,,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O01013,2024-05-25,2024-06-23,2024-06-24,29,30.0,1.0,0,Completed,972,972,Customs,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O01014,2025-07-26,2025-08-15,2025-08-15,20,20.0,0.0,1,Partial,782,776,,0
+S002,Mason PLC,United States Virgin Islands,Food,O01015,2025-08-14,2025-09-06,2025-09-09,23,26.0,3.0,0,Partial,408,400,Weather,1
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O01016,2025-06-06,2025-07-06,2025-07-03,30,27.0,-3.0,1,Partial,370,365,,0
+S044,Francis Ltd,Colombia,Clothing,O01017,2025-04-19,2025-05-06,2025-05-10,17,21.0,4.0,0,Completed,485,485,Customs,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O01018,2023-12-17,2024-01-13,2024-01-10,27,24.0,-3.0,1,Completed,785,785,,0
+S044,Francis Ltd,Colombia,Clothing,O01019,2024-09-27,2024-10-26,2024-10-24,29,27.0,-2.0,1,Partial,901,894,,1
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O01020,2025-05-26,2025-06-10,2025-06-11,15,16.0,1.0,0,Partial,230,214,Unknown,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O01021,2025-08-21,2025-08-26,2025-08-27,5,6.0,1.0,0,Completed,577,577,Supplier delay,0
+S035,Meadows-Carr,Vanuatu,Food,O01022,2024-01-06,2024-01-16,2024-01-11,10,5.0,-5.0,1,Completed,274,274,,0
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O01023,2025-06-02,2025-06-22,2025-06-26,20,24.0,4.0,0,Partial,814,805,Strike,0
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O01024,2023-12-12,2023-12-21,2023-12-24,9,12.0,3.0,0,Completed,843,843,Weather,1
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O01025,2024-10-14,2024-10-20,2024-10-15,6,1.0,-5.0,1,Completed,549,549,,0
+S028,Howe Group,Nauru,Pharmaceuticals,O01026,2023-09-17,2023-10-12,2023-10-12,25,25.0,0.0,1,Completed,576,576,,1
+S039,Newton-Smith,Sierra Leone,Electronics,O01027,2025-07-30,2025-08-10,2025-08-22,11,23.0,12.0,0,Partial,228,222,Customs,0
+S008,Rowe-Ward,Anguilla,Food,O01028,2025-01-07,2025-02-06,2025-02-04,30,28.0,-2.0,1,Completed,974,974,,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O01029,2024-03-28,2024-04-23,2024-05-02,26,35.0,9.0,0,Completed,556,556,Weather,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O01030,2025-06-25,2025-07-02,2025-06-26,7,1.0,-6.0,1,Completed,61,61,,1
+S035,Meadows-Carr,Vanuatu,Food,O01031,2024-10-26,2024-10-31,2024-11-07,5,12.0,7.0,0,Completed,755,755,Strike,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O01032,2024-03-25,2024-04-08,2024-04-08,14,14.0,0.0,1,Completed,848,848,,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O01033,2025-01-07,2025-01-14,2025-01-11,7,4.0,-3.0,1,Completed,126,126,,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O01034,2024-12-27,2025-01-08,2025-01-04,12,8.0,-4.0,1,Completed,506,506,,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O01035,2025-04-03,2025-04-20,2025-04-15,17,12.0,-5.0,1,Completed,845,845,,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O01036,2024-03-30,2024-04-05,2024-04-11,6,12.0,6.0,0,Completed,364,364,Customs,0
+S043,"Garza, Martin and Thomas",Greece,Food,O01037,2025-09-02,2025-09-29,2025-09-25,27,23.0,-4.0,1,Completed,94,94,,1
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O01038,2024-10-21,2024-11-03,2024-10-27,13,6.0,-7.0,1,Completed,213,213,,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O01039,2024-05-07,2024-05-14,2024-05-14,7,7.0,0.0,1,Completed,645,645,,0
+S042,Casey PLC,Colombia,Clothing,O01040,2024-04-20,2024-05-13,2024-05-10,23,20.0,-3.0,1,Completed,929,929,,0
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O01041,2024-02-10,2024-02-17,2024-02-13,7,3.0,-4.0,1,Completed,167,167,,0
+S009,Martinez PLC,Zambia,Automotive,O01042,2024-06-05,2024-06-24,2024-07-05,19,30.0,11.0,0,Completed,749,749,Supplier delay,0
+S026,Reid LLC,South Africa,Automotive,O01043,2024-06-05,2024-06-13,2024-06-12,8,7.0,-1.0,1,Completed,274,274,,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O01044,2024-07-21,2024-07-26,2024-08-01,5,11.0,6.0,0,Completed,998,998,Supplier delay,0
+S032,"Perez, Mays and Miller",Bosnia and Herzegovina,Automotive,O01045,2023-10-25,2023-10-31,2023-10-26,6,1.0,-5.0,1,Completed,986,986,,0
+S001,Jenkins Inc,Mongolia,Clothing,O01046,2025-06-30,2025-07-09,2025-07-04,9,4.0,-5.0,1,Completed,183,183,,1
+S021,Taylor-Collins,Sri Lanka,Clothing,O01047,2024-09-10,2024-09-21,2024-09-22,11,12.0,1.0,0,Completed,237,237,Supplier delay,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O01048,2024-08-03,2024-09-02,2024-09-05,30,33.0,3.0,0,Completed,459,459,Supplier delay,0
+S035,Meadows-Carr,Vanuatu,Food,O01049,2024-07-20,2024-08-08,2024-08-10,19,21.0,2.0,0,Completed,823,823,Weather,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O01050,2023-12-21,2024-01-19,2024-01-19,29,29.0,0.0,1,Partial,402,396,,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O01051,2025-02-10,2025-02-17,2025-02-15,7,5.0,-2.0,1,Completed,131,131,,1
+S050,Wright-Stewart,Azerbaijan,Automotive,O01052,2024-02-13,2024-02-27,2024-02-27,14,14.0,0.0,1,Partial,123,115,,0
+S012,Turner Ltd,Venezuela,Automotive,O01053,2025-08-18,2025-08-29,2025-08-26,11,8.0,-3.0,1,Completed,919,919,,0
+S035,Meadows-Carr,Vanuatu,Food,O01054,2023-09-11,2023-10-10,2023-10-05,29,24.0,-5.0,1,Partial,142,135,,1
+S050,Wright-Stewart,Azerbaijan,Automotive,O01055,2025-06-03,2025-06-14,2025-06-18,11,15.0,4.0,0,Completed,183,183,Strike,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O01056,2025-08-28,2025-09-03,2025-09-07,6,10.0,4.0,0,Partial,874,855,Supplier delay,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O01057,2024-06-06,2024-07-03,2024-07-04,27,28.0,1.0,0,Partial,679,667,Supplier delay,0
+S033,Romero-Phillips,Mauritania,Automotive,O01058,2023-10-12,2023-10-19,2023-10-20,7,8.0,1.0,0,Partial,474,454,Supplier delay,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O01059,2025-03-04,2025-03-23,2025-03-25,19,21.0,2.0,0,Completed,781,781,Weather,1
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O01060,2025-03-26,2025-04-08,2025-04-15,13,20.0,7.0,0,Completed,556,556,Weather,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O01061,2024-05-28,2024-06-14,2024-06-19,17,22.0,5.0,0,Completed,521,521,Strike,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O01062,2024-09-23,2024-10-04,2024-10-03,11,10.0,-1.0,1,Completed,641,641,,0
+S009,Martinez PLC,Zambia,Automotive,O01063,2024-01-03,2024-01-16,2024-01-10,13,7.0,-6.0,1,Completed,738,738,,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O01064,2025-02-20,2025-03-19,2025-03-09,27,17.0,-10.0,1,Completed,529,529,,0
+S009,Martinez PLC,Zambia,Automotive,O01065,2023-11-30,2023-12-08,2023-12-07,8,7.0,-1.0,1,Completed,680,680,,1
+S033,Romero-Phillips,Mauritania,Automotive,O01066,2023-10-11,2023-11-01,2023-11-03,21,23.0,2.0,0,Partial,197,184,Supplier delay,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O01067,2025-01-24,2025-02-09,2025-02-05,16,12.0,-4.0,1,Completed,849,849,,1
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O01068,2024-07-17,2024-08-15,2024-08-13,29,27.0,-2.0,1,Completed,461,461,,1
+S002,Mason PLC,United States Virgin Islands,Food,O01069,2024-04-10,2024-05-03,2024-05-12,23,32.0,9.0,0,Completed,242,242,Strike,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O01070,2025-07-06,2025-07-18,2025-07-22,12,16.0,4.0,0,Completed,702,702,Supplier delay,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O01071,2024-11-16,2024-12-10,,24,,,1,Cancelled,461,0,,0
+S035,Meadows-Carr,Vanuatu,Food,O01072,2024-06-19,2024-07-07,2024-07-04,18,15.0,-3.0,1,Completed,547,547,,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O01073,2024-04-04,2024-04-16,2024-04-08,12,4.0,-8.0,1,Completed,798,798,,1
+S026,Reid LLC,South Africa,Automotive,O01074,2024-06-22,2024-07-13,2024-07-18,21,26.0,5.0,0,Completed,216,216,Unknown,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O01075,2025-02-07,2025-02-16,2025-02-23,9,16.0,7.0,0,Completed,854,854,Weather,0
+S039,Newton-Smith,Sierra Leone,Electronics,O01076,2024-02-06,2024-02-26,2024-02-19,20,13.0,-7.0,1,Completed,555,555,,0
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O01077,2025-08-29,2025-09-12,,14,,,1,Cancelled,788,0,,0
+S042,Casey PLC,Colombia,Clothing,O01078,2025-07-30,2025-08-22,2025-08-24,23,25.0,2.0,0,Completed,108,108,Customs,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O01079,2024-07-08,2024-07-25,2024-07-20,17,12.0,-5.0,1,Completed,530,530,,0
+S001,Jenkins Inc,Mongolia,Clothing,O01080,2025-06-02,2025-06-30,2025-06-29,28,27.0,-1.0,1,Partial,611,593,,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O01081,2024-03-28,2024-04-27,2024-04-30,30,33.0,3.0,0,Completed,295,295,Weather,0
+S040,Romero Ltd,Jamaica,Food,O01082,2024-09-21,2024-10-11,2024-10-15,20,24.0,4.0,0,Partial,352,336,Supplier delay,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O01083,2024-05-14,2024-06-09,2024-06-16,26,33.0,7.0,0,Completed,733,733,Strike,0
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O01084,2024-04-14,2024-05-09,2024-05-18,25,34.0,9.0,0,Completed,580,580,Unknown,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O01085,2024-01-18,2024-01-26,2024-01-30,8,12.0,4.0,0,Completed,736,736,Customs,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O01086,2024-12-23,2025-01-09,2025-01-06,17,14.0,-3.0,1,Completed,51,51,,0
+S020,Mills Ltd,Rwanda,Automotive,O01087,2025-03-06,2025-03-26,2025-03-12,20,6.0,-14.0,1,Completed,471,471,,0
+S012,Turner Ltd,Venezuela,Automotive,O01088,2025-01-08,2025-01-15,2025-01-21,7,13.0,6.0,0,Partial,138,120,Supplier delay,0
+S011,Liu-Gomez,Guam,Clothing,O01089,2025-08-31,2025-09-10,2025-09-19,10,19.0,9.0,0,Completed,630,630,Weather,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O01090,2025-04-20,2025-05-19,2025-05-24,29,34.0,5.0,0,Partial,117,102,Strike,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O01091,2025-08-01,2025-08-19,2025-08-21,18,20.0,2.0,0,Completed,882,882,Customs,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O01092,2024-01-13,2024-02-06,2024-02-01,24,19.0,-5.0,1,Completed,81,81,,1
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O01093,2024-01-22,2024-02-16,2024-02-20,25,29.0,4.0,0,Partial,777,766,Customs,1
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O01094,2024-09-02,2024-09-29,2024-09-29,27,27.0,0.0,1,Completed,129,129,,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O01095,2024-01-27,2024-02-13,2024-02-14,17,18.0,1.0,0,Completed,635,635,Strike,0
+S039,Newton-Smith,Sierra Leone,Electronics,O01096,2024-04-24,2024-04-30,2024-04-27,6,3.0,-3.0,1,Completed,457,457,,1
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O01097,2024-10-13,2024-11-05,2024-11-03,23,21.0,-2.0,1,Completed,274,274,,0
+S008,Rowe-Ward,Anguilla,Food,O01098,2023-12-26,2024-01-03,2024-01-04,8,9.0,1.0,0,Partial,703,702,Unknown,0
+S043,"Garza, Martin and Thomas",Greece,Food,O01099,2023-12-26,2024-01-05,2024-01-11,10,16.0,6.0,0,Completed,923,923,Unknown,0
+S038,Castaneda Group,Kyrgyz Republic,Food,O01100,2025-02-11,2025-02-20,2025-02-21,9,10.0,1.0,0,Completed,870,870,Customs,0
+S048,Hodge PLC,Norfolk Island,Food,O01101,2025-05-03,2025-05-15,2025-05-26,12,23.0,11.0,0,Partial,600,592,Strike,1
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O01102,2023-11-05,2023-11-15,2023-11-15,10,10.0,0.0,1,Completed,603,603,,0
+S026,Reid LLC,South Africa,Automotive,O01103,2025-04-02,2025-04-08,2025-04-04,6,2.0,-4.0,1,Completed,733,733,,1
+S009,Martinez PLC,Zambia,Automotive,O01104,2025-02-05,2025-02-11,2025-02-14,6,9.0,3.0,0,Partial,107,96,Weather,1
+S024,Simmons PLC,Isle of Man,Automotive,O01105,2024-11-07,2024-11-22,2024-11-17,15,10.0,-5.0,1,Completed,518,518,,0
+S037,"Young, Rivera and Cowan",Heard Island and McDonald Islands,Food,O01106,2025-03-08,2025-03-17,2025-03-11,9,3.0,-6.0,1,Completed,564,564,,1
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O01107,2024-06-10,2024-07-02,2024-07-04,22,24.0,2.0,0,Completed,942,942,Supplier delay,0
+S049,"Pennington, Perry and Bailey",British Virgin Islands,Automotive,O01108,2025-03-31,2025-04-20,2025-04-23,20,23.0,3.0,0,Completed,502,502,Customs,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O01109,2024-09-29,2024-10-20,2024-10-19,21,20.0,-1.0,1,Completed,301,301,,0
+S042,Casey PLC,Colombia,Clothing,O01110,2025-08-15,2025-09-11,2025-09-14,27,30.0,3.0,0,Completed,335,335,Unknown,1
+S050,Wright-Stewart,Azerbaijan,Automotive,O01111,2024-08-07,2024-08-12,2024-08-08,5,1.0,-4.0,1,Partial,247,245,,1
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O01112,2025-04-03,2025-04-11,2025-04-07,8,4.0,-4.0,1,Completed,719,719,,1
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O01113,2024-04-29,2024-05-23,2024-05-26,24,27.0,3.0,0,Partial,558,551,Unknown,0
+S025,Francis Group,Tokelau,Automotive,O01114,2025-04-01,2025-04-21,2025-04-18,20,17.0,-3.0,1,Partial,490,474,,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O01115,2024-11-21,2024-12-14,2024-12-13,23,22.0,-1.0,1,Completed,713,713,,0
+S012,Turner Ltd,Venezuela,Automotive,O01116,2024-11-01,2024-11-12,2024-11-14,11,13.0,2.0,0,Completed,937,937,Supplier delay,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O01117,2023-12-18,2023-12-26,2023-12-28,8,10.0,2.0,0,Completed,413,413,Supplier delay,0
+S046,"Roberts, Jones and Kim",Estonia,Automotive,O01118,2025-04-16,2025-04-29,2025-05-01,13,15.0,2.0,0,Partial,477,467,Unknown,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O01119,2025-01-08,2025-01-14,2025-01-13,6,5.0,-1.0,1,Completed,447,447,,0
+S044,Francis Ltd,Colombia,Clothing,O01120,2024-07-21,2024-08-13,2024-08-22,23,32.0,9.0,0,Partial,666,654,Unknown,0
+S028,Howe Group,Nauru,Pharmaceuticals,O01121,2024-02-08,2024-03-03,2024-03-08,24,29.0,5.0,0,Completed,205,205,Supplier delay,0
+S008,Rowe-Ward,Anguilla,Food,O01122,2023-09-23,2023-10-08,2023-10-20,15,27.0,12.0,0,Partial,400,387,Unknown,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O01123,2025-05-20,2025-06-08,2025-05-31,19,11.0,-8.0,1,Partial,372,355,,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O01124,2024-09-23,2024-10-14,2024-10-19,21,26.0,5.0,0,Completed,342,342,Weather,0
+S003,Bean-Christian,Montenegro,Pharmaceuticals,O01125,2024-11-03,2024-11-15,2024-11-16,12,13.0,1.0,0,Completed,190,190,Strike,0
+S007,"Morris, Day and Miller",Dominica,Automotive,O01126,2024-12-08,2024-12-22,2024-12-30,14,22.0,8.0,0,Completed,54,54,Unknown,1
+S012,Turner Ltd,Venezuela,Automotive,O01127,2024-05-06,2024-05-25,2024-06-01,19,26.0,7.0,0,Completed,217,217,Unknown,1
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O01128,2023-11-09,2023-11-26,2023-11-25,17,16.0,-1.0,1,Partial,662,642,,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O01129,2025-05-30,2025-06-15,2025-06-09,16,10.0,-6.0,1,Completed,67,67,,0
+S014,Anthony Inc,Saint Kitts and Nevis,Food,O01130,2024-08-05,2024-08-30,2024-08-29,25,24.0,-1.0,1,Completed,375,375,,0
+S044,Francis Ltd,Colombia,Clothing,O01131,2025-06-25,2025-07-19,2025-07-10,24,15.0,-9.0,1,Partial,855,844,,0
+S024,Simmons PLC,Isle of Man,Automotive,O01132,2025-01-24,2025-02-07,2025-02-03,14,10.0,-4.0,1,Partial,473,454,,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O01133,2025-08-03,2025-08-21,2025-08-25,18,22.0,4.0,0,Completed,472,472,Supplier delay,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O01134,2024-08-14,2024-08-25,2024-08-16,11,2.0,-9.0,1,Completed,920,920,,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O01135,2024-02-18,2024-03-05,2024-03-05,16,16.0,0.0,1,Partial,872,862,,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O01136,2025-08-01,2025-08-19,2025-08-11,18,10.0,-8.0,1,Completed,381,381,,0
+S033,Romero-Phillips,Mauritania,Automotive,O01137,2024-03-31,2024-04-19,2024-04-17,19,17.0,-2.0,1,Completed,750,750,,0
+S001,Jenkins Inc,Mongolia,Clothing,O01138,2024-01-27,2024-02-23,2024-02-17,27,21.0,-6.0,1,Completed,731,731,,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O01139,2024-12-28,2025-01-11,2025-01-11,14,14.0,0.0,1,Completed,612,612,,0
+S045,"Hughes, Doyle and Mclaughlin",Estonia,Automotive,O01140,2025-08-14,2025-08-19,2025-08-26,5,12.0,7.0,0,Completed,345,345,Unknown,1
+S020,Mills Ltd,Rwanda,Automotive,O01141,2025-08-07,2025-09-04,2025-09-01,28,25.0,-3.0,1,Completed,160,160,,0
+S020,Mills Ltd,Rwanda,Automotive,O01142,2025-08-03,2025-08-13,2025-08-13,10,10.0,0.0,1,Completed,289,289,,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O01143,2024-07-05,2024-07-13,2024-07-20,8,15.0,7.0,0,Partial,988,973,Customs,1
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O01144,2024-12-31,2025-01-26,2025-01-18,26,18.0,-8.0,1,Completed,90,90,,0
+S020,Mills Ltd,Rwanda,Automotive,O01145,2023-10-03,2023-10-21,2023-10-24,18,21.0,3.0,0,Partial,100,84,Weather,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O01146,2024-03-13,2024-03-29,2024-04-04,16,22.0,6.0,0,Completed,306,306,Strike,0
+S009,Martinez PLC,Zambia,Automotive,O01147,2024-02-14,2024-02-22,2024-02-21,8,7.0,-1.0,1,Completed,278,278,,0
+S009,Martinez PLC,Zambia,Automotive,O01148,2024-08-28,2024-09-06,2024-09-05,9,8.0,-1.0,1,Completed,293,293,,0
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O01149,2024-06-02,2024-07-01,2024-06-27,29,25.0,-4.0,1,Completed,713,713,,0
+S039,Newton-Smith,Sierra Leone,Electronics,O01150,2025-08-28,2025-09-07,2025-09-10,10,13.0,3.0,0,Completed,641,641,Customs,0
+S008,Rowe-Ward,Anguilla,Food,O01151,2024-01-17,2024-01-29,2024-01-21,12,4.0,-8.0,1,Completed,401,401,,0
+S023,"Maldonado, Smith and Ashley",Estonia,Food,O01152,2024-11-20,2024-12-19,2024-12-17,29,27.0,-2.0,1,Completed,784,784,,0
+S027,Pace-Hernandez,British Indian Ocean Territory (Chagos Archipelago),Electronics,O01153,2023-11-24,2023-12-09,2023-12-10,15,16.0,1.0,0,Partial,554,550,Customs,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O01154,2024-10-01,2024-10-25,2024-10-16,24,15.0,-9.0,1,Completed,335,335,,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O01155,2024-05-19,2024-06-01,2024-05-27,13,8.0,-5.0,1,Completed,638,638,,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O01156,2025-04-09,2025-04-25,2025-04-30,16,21.0,5.0,0,Partial,258,247,Customs,0
+S036,"Perez, Watson and Jones",Angola,Electronics,O01157,2024-07-23,2024-08-21,2024-08-19,29,27.0,-2.0,1,Completed,126,126,,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O01158,2025-02-20,2025-03-07,2025-03-17,15,25.0,10.0,0,Completed,381,381,Supplier delay,0
+S020,Mills Ltd,Rwanda,Automotive,O01159,2024-12-06,2025-01-01,2024-12-21,26,15.0,-11.0,1,Completed,686,686,,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O01160,2024-06-12,2024-06-19,2024-06-13,7,1.0,-6.0,1,Completed,224,224,,1
+S022,"Mcgee, Poole and Griffith",Montserrat,Clothing,O01161,2023-09-17,2023-10-01,2023-10-05,14,18.0,4.0,0,Completed,956,956,Unknown,1
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O01162,2024-12-27,2025-01-09,2025-01-12,13,16.0,3.0,0,Partial,555,553,Supplier delay,0
+S005,Smith-Mcgee,Albania,Pharmaceuticals,O01163,2024-06-19,2024-07-08,2024-06-28,19,9.0,-10.0,1,Completed,138,138,,0
+S018,"Bird, Ray and Walsh",Seychelles,Clothing,O01164,2024-10-14,2024-11-12,2024-11-07,29,24.0,-5.0,1,Completed,926,926,,0
+S031,Johnson PLC,Northern Mariana Islands,Automotive,O01165,2023-11-05,2023-11-18,2023-11-18,13,13.0,0.0,1,Completed,461,461,,0
+S019,Phillips-Owens,Bosnia and Herzegovina,Clothing,O01166,2023-09-06,2023-09-19,2023-09-12,13,6.0,-7.0,1,Completed,303,303,,1
+S012,Turner Ltd,Venezuela,Automotive,O01167,2024-07-08,2024-08-04,2024-07-29,27,21.0,-6.0,1,Completed,237,237,,0
+S004,"Clark, Douglas and Jordan",Isle of Man,Food,O01168,2024-12-26,2025-01-21,2025-01-26,26,31.0,5.0,0,Completed,643,643,Weather,1
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O01169,2023-09-09,2023-10-08,2023-10-06,29,27.0,-2.0,1,Completed,107,107,,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O01170,2024-08-21,2024-09-13,2024-09-13,23,23.0,0.0,1,Completed,634,634,,0
+S040,Romero Ltd,Jamaica,Food,O01171,2025-07-26,2025-08-18,2025-08-21,23,26.0,3.0,0,Completed,52,52,Strike,0
+S050,Wright-Stewart,Azerbaijan,Automotive,O01172,2024-04-30,2024-05-21,2024-05-25,21,25.0,4.0,0,Completed,807,807,Weather,0
+S017,"Davis, Crawford and Conrad",Saint Lucia,Clothing,O01173,2025-07-13,2025-07-23,2025-07-31,10,18.0,8.0,0,Completed,490,490,Customs,0
+S039,Newton-Smith,Sierra Leone,Electronics,O01174,2024-04-20,2024-05-20,2024-05-30,30,40.0,10.0,0,Completed,389,389,Supplier delay,1
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O01175,2025-01-29,2025-02-14,2025-02-05,16,7.0,-9.0,1,Completed,910,910,,0
+S009,Martinez PLC,Zambia,Automotive,O01176,2024-04-20,2024-05-08,2024-05-13,18,23.0,5.0,0,Completed,478,478,Supplier delay,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O01177,2025-03-05,2025-03-21,2025-03-24,16,19.0,3.0,0,Completed,606,606,Unknown,1
+S021,Taylor-Collins,Sri Lanka,Clothing,O01178,2023-10-25,2023-11-08,2023-11-02,14,8.0,-6.0,1,Completed,919,919,,1
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O01179,2024-05-22,2024-06-01,2024-05-26,10,4.0,-6.0,1,Completed,158,158,,0
+S028,Howe Group,Nauru,Pharmaceuticals,O01180,2023-10-16,2023-10-21,2023-10-17,5,1.0,-4.0,1,Completed,57,57,,0
+S010,"Rodriguez, Sparks and Jackson",Brunei Darussalam,Automotive,O01181,2024-09-02,2024-09-14,2024-09-08,12,6.0,-6.0,1,Completed,459,459,,0
+S047,"Riley, Dixon and Williams",Kenya,Pharmaceuticals,O01182,2023-11-04,2023-11-13,2023-11-11,9,7.0,-2.0,1,Completed,442,442,,1
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O01183,2023-10-28,2023-11-24,2023-11-24,27,27.0,0.0,1,Completed,781,781,,0
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O01184,2024-07-07,2024-07-18,2024-07-21,11,14.0,3.0,0,Completed,906,906,Weather,0
+S021,Taylor-Collins,Sri Lanka,Clothing,O01185,2025-03-31,2025-04-18,2025-04-20,18,20.0,2.0,0,Completed,365,365,Customs,0
+S048,Hodge PLC,Norfolk Island,Food,O01186,2025-01-21,2025-01-28,2025-01-22,7,1.0,-6.0,1,Partial,744,736,,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O01187,2025-04-04,2025-04-15,2025-04-08,11,4.0,-7.0,1,Partial,489,479,,0
+S025,Francis Group,Tokelau,Automotive,O01188,2024-07-11,2024-08-03,2024-08-02,23,22.0,-1.0,1,Completed,206,206,,1
+S008,Rowe-Ward,Anguilla,Food,O01189,2024-03-13,2024-04-05,2024-04-07,23,25.0,2.0,0,Completed,604,604,Unknown,1
+S034,Cruz and Sons,Portugal,Pharmaceuticals,O01190,2025-05-08,2025-05-13,2025-05-14,5,6.0,1.0,0,Partial,192,177,Customs,0
+S016,"Mcdonald, Nunez and Sullivan",Saint Helena,Automotive,O01191,2025-08-26,2025-09-10,2025-09-11,15,16.0,1.0,0,Completed,92,92,Unknown,0
+S030,Woods-Stevenson,Cote d'Ivoire,Automotive,O01192,2025-04-28,2025-05-11,2025-05-13,13,15.0,2.0,0,Completed,560,560,Strike,0
+S009,Martinez PLC,Zambia,Automotive,O01193,2025-06-07,2025-06-23,2025-06-20,16,13.0,-3.0,1,Completed,567,567,,0
+S015,"Andersen, Thompson and Cook",British Indian Ocean Territory (Chagos Archipelago),Clothing,O01194,2024-06-11,2024-06-23,,12,,,1,Cancelled,877,0,,0
+S041,Coleman-Duncan,Zimbabwe,Pharmaceuticals,O01195,2023-09-15,2023-09-26,2023-09-18,11,3.0,-8.0,1,Partial,420,415,,0
+S002,Mason PLC,United States Virgin Islands,Food,O01196,2024-07-15,2024-07-22,2024-07-22,7,7.0,0.0,1,Completed,577,577,,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O01197,2024-07-22,2024-08-10,2024-08-09,19,18.0,-1.0,1,Completed,587,587,,1
+S021,Taylor-Collins,Sri Lanka,Clothing,O01198,2025-08-26,2025-09-22,2025-09-18,27,23.0,-4.0,1,Completed,305,305,,0
+S006,"Drake, Davidson and Moreno",Greece,Food,O01199,2025-01-03,2025-01-10,2025-01-15,7,12.0,5.0,0,Partial,848,831,Weather,0
+S001,Jenkins Inc,Mongolia,Clothing,O01200,2024-03-17,2024-04-10,2024-04-16,24,30.0,6.0,0,Completed,305,305,Unknown,0
